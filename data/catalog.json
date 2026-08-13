@@ -18,7 +18,7 @@
       "playtime_forever": 330,
       "rtime_last_played": 1735458666,
       "visible": true,
-      "played": true,
+      "played": false,
       "show_playtime": true,
       "name_ja": "7 Days to Die",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1785351975"
@@ -63,7 +63,7 @@
       "playtime_forever": 1813,
       "rtime_last_played": 1745136965,
       "visible": true,
-      "played": true,
+      "played": false,
       "show_playtime": true,
       "name_ja": "Among Us",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1781287930"
@@ -814,7 +814,7 @@
       "playtime_forever": 721,
       "rtime_last_played": 1766372002,
       "visible": true,
-      "played": true,
+      "played": false,
       "show_playtime": true,
       "name_ja": "『This Ain’t Even Poker, Ya Joker　こんなのポーカーじゃない』",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038320/5754be8023731dc98d8df4d3d98a62cce33b615e/header.jpg?t=1768502326"
