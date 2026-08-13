@@ -2,17 +2,17 @@
 // GitHub 上で直接このファイルを編集して保存(コミット)すると、サイトが自動で再生成されます。
 {
   // サイトを公開するか。初期設定と非表示設定が終わったら true にしてください。
-  "published": false,
+  "published": true,
 
   // サイトのタイトルと説明文
-  "site_title": "My Game Shelf",
+  "site_title": "音緒　Steamリスト",
   "site_description": "",
 
   // 初期表示言語: "ja" または "en"(閲覧者はサイト上で切り替え可能)
   "default_lang": "ja",
 
   // プレイ時間を表示するか(サイト全体のスイッチ。ゲームごとの設定は管理ページから)
-  "show_playtime": true,
+  "show_playtime": false,
 
   // プレイ済みタグを表示するか(サイト全体のスイッチ。OFFでもゲームごとの played 値は保持されます。
   // OFF時はカードのバッジだけでなく、公開ページの「プレイ済み/未プレイ」絞り込みも非表示になります)
