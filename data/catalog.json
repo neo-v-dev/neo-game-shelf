@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-13T08:11:01.804Z",
+  "fetched_at": "2026-08-13T19:02:21.301Z",
   "games": [
     {
       "appid": 3659180,
@@ -73,9 +73,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757210/b3f727889f1e8936e867f475e389226e4ced76a0/header_japanese.jpg?t=1777735933",
       "developer": "べすとまん",
       "publisher": "べすとまん",
-      "stream_url": "https://www.youtube.com/live/7BL0fLAuUHI?si=kKmufn_-clYyaE2N",
       "release_date": "2025年12月4日",
-      "release_ts": 1764806400
+      "release_ts": 1764806400,
+      "stream_url": "https://www.youtube.com/live/7BL0fLAuUHI?si=kKmufn_-clYyaE2N"
     },
     {
       "appid": 945360,
@@ -179,9 +179,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg?t=1786037325",
       "developer": "LocalThunk",
       "publisher": "Playstack",
-      "stream_url": "https://www.youtube.com/live/e3ifvBvvkbs?si=8OGcOOTOKacxE5c5",
       "release_date": "2024年2月20日",
-      "release_ts": 1708387200
+      "release_ts": 1708387200,
+      "stream_url": "https://www.youtube.com/live/e3ifvBvvkbs?si=8OGcOOTOKacxE5c5"
     },
     {
       "appid": 1517290,
@@ -225,9 +225,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8ba81356b84aa937573fa29fdd708dbd96b01537/header.jpg?t=1784649345",
       "developer": "Panik Arcade",
       "publisher": "Future Friends Games",
-      "stream_url": "https://www.youtube.com/live/Xd4sSHwwRs0?si=yvqP1qyC4J8s6jif",
       "release_date": "2025年9月26日",
-      "release_ts": 1758844800
+      "release_ts": 1758844800,
+      "stream_url": "https://www.youtube.com/live/Xd4sSHwwRs0?si=yvqP1qyC4J8s6jif"
     },
     {
       "appid": 4015010,
@@ -406,9 +406,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344150/bff098e67d344d62dbf47a2b982c06d81b3eb5cb/header.jpg?t=1776012747",
       "developer": "Notex",
       "publisher": "Notex",
-      "stream_url": "https://www.youtube.com/live/N0vxEINNrsA?si=lv_p8eYzDYfJRAdx",
       "release_date": "2024年12月15日",
-      "release_ts": 1734220800
+      "release_ts": 1734220800,
+      "stream_url": "https://www.youtube.com/live/N0vxEINNrsA?si=lv_p8eYzDYfJRAdx"
     },
     {
       "appid": 3213850,
@@ -497,9 +497,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3906770/72c58fbaa8a0ba084dc19ba44b87d3836d7dc243/header_japanese.jpg?t=1766114644",
       "developer": "うさうさはっぴーげーむず",
       "publisher": "うさうさはっぴーげーむず",
-      "stream_url": "https://www.youtube.com/live/FvWSq6Io-XY?si=iTdiBthAakN30Xje",
       "release_date": "2025年8月19日",
-      "release_ts": 1755561600
+      "release_ts": 1755561600,
+      "stream_url": "https://www.youtube.com/live/FvWSq6Io-XY?si=iTdiBthAakN30Xje"
     },
     {
       "appid": 3809110,
@@ -513,9 +513,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809110/45535eab1be845a0529e4eb546621821955b75df/header_japanese.jpg?t=1766482045",
       "developer": "日本事故物件監視協会",
       "publisher": "日本事故物件監視協会",
-      "stream_url": "https://www.youtube.com/live/2WNvN61feqM?si=CZ27QbB5NaNz19Xa",
       "release_date": "2025年8月15日",
-      "release_ts": 1755216000
+      "release_ts": 1755216000,
+      "stream_url": "https://www.youtube.com/live/2WNvN61feqM?si=CZ27QbB5NaNz19Xa"
     },
     {
       "appid": 4611990,
@@ -589,9 +589,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3575730/bc7733a55332031cad502e90aed5773fd7f2a36d/header_japanese.jpg?t=1779867958",
       "developer": "qureate",
       "publisher": "qureate",
-      "stream_url": "https://www.youtube.com/live/85TIxq-T0zI?si=iPK79ndZX0oV4aNQ",
       "release_date": "2025年10月8日",
-      "release_ts": 1759881600
+      "release_ts": 1759881600,
+      "stream_url": "https://www.youtube.com/live/85TIxq-T0zI?si=iPK79ndZX0oV4aNQ"
     },
     {
       "appid": 576030,
@@ -800,9 +800,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224790/header.jpg?t=1670313707",
       "developer": "くそいサイト",
       "publisher": "くそいサイト",
-      "stream_url": "https://www.youtube.com/live/QZxGwIIRJcQ?si=EfQ0sXAUXZI_AhoQ",
       "release_date": "2022年12月6日",
-      "release_ts": 1670284800
+      "release_ts": 1670284800,
+      "stream_url": "https://www.youtube.com/live/QZxGwIIRJcQ?si=EfQ0sXAUXZI_AhoQ"
     },
     {
       "appid": 493340,
@@ -831,9 +831,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2903560/header.jpg?t=1756693767",
       "developer": "KOTAKE CREATE",
       "publisher": "PLAYISM",
-      "stream_url": "https://www.youtube.com/live/kDZozAdLz4I?si=JRFlRu4pzggoayNC",
       "release_date": "2024年5月31日",
-      "release_ts": 1717113600
+      "release_ts": 1717113600,
+      "stream_url": "https://www.youtube.com/live/kDZozAdLz4I?si=JRFlRu4pzggoayNC"
     },
     {
       "appid": 3461950,
@@ -847,9 +847,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461950/176416a52c2ed08d2c905a4ced35e7061cd1d690/header_japanese.jpg?t=1785669071",
       "developer": "Yajin",
       "publisher": "YajinGameProject",
-      "stream_url": "https://www.youtube.com/live/RT6HFGVKnIw?si=Q_eHDskVXaiTM98-",
       "release_date": "2025年7月10日",
-      "release_ts": 1752105600
+      "release_ts": 1752105600,
+      "stream_url": "https://www.youtube.com/live/RT6HFGVKnIw?si=Q_eHDskVXaiTM98-"
     },
     {
       "appid": 3500750,
@@ -863,9 +863,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500750/header.jpg?t=1751786141",
       "developer": "AquaEternity",
       "publisher": "AquaEternity",
-      "stream_url": "https://www.youtube.com/live/AwvLpsNSnsw?si=6aANjXBPyE4FsJS-",
       "release_date": "2025年7月3日",
-      "release_ts": 1751500800
+      "release_ts": 1751500800,
+      "stream_url": "https://www.youtube.com/live/AwvLpsNSnsw?si=6aANjXBPyE4FsJS-"
     },
     {
       "appid": 1025250,
@@ -879,9 +879,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1025250/header.jpg?t=1675614483",
       "developer": "Space Onigiri Game LLC",
       "publisher": "Space Onigiri Game LLC",
-      "stream_url": "https://www.youtube.com/live/ebdAjGsM7PQ?si=uzB6u9RtJU0mURMG",
       "release_date": "2019年3月8日",
-      "release_ts": 1552003200
+      "release_ts": 1552003200,
+      "stream_url": "https://www.youtube.com/live/ebdAjGsM7PQ?si=uzB6u9RtJU0mURMG"
     },
     {
       "appid": 2310700,
@@ -910,9 +910,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584990/bab5a90e2765d340ca3ba8553e1b0ee679176dda/header_japanese.jpg?t=1784686421",
       "developer": "Cygames, Inc.",
       "publisher": "Cygames, Inc.",
-      "stream_url": "https://www.youtube.com/live/hKw8zm1mdp0?si=ZvaKtbTp7OhZSIHO",
       "release_date": "2025年6月14日",
-      "release_ts": 1749859200
+      "release_ts": 1749859200,
+      "stream_url": "https://www.youtube.com/live/hKw8zm1mdp0?si=ZvaKtbTp7OhZSIHO"
     },
     {
       "appid": 3722330,
@@ -1046,9 +1046,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814910/header.jpg?t=1754633746",
       "developer": "橙々",
       "publisher": "Gotcha Gotcha Games",
-      "stream_url": "https://www.youtube.com/live/_KP3ZJVQXNw?si=yMYwbvT-U5INUUiM",
       "release_date": "2024年2月14日",
-      "release_ts": 1707868800
+      "release_ts": 1707868800,
+      "stream_url": "https://www.youtube.com/live/_KP3ZJVQXNw?si=yMYwbvT-U5INUUiM"
     },
     {
       "appid": 2653790,
@@ -1062,9 +1062,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653790/header.jpg?t=1756464433",
       "developer": "KOTAKE CREATE",
       "publisher": "PLAYISM",
-      "stream_url": "https://www.youtube.com/live/yo-RIH8rs54?si=GMAIJsBc8gaXz40A",
       "release_date": "2023年11月29日",
-      "release_ts": 1701216000
+      "release_ts": 1701216000,
+      "stream_url": "https://www.youtube.com/live/yo-RIH8rs54?si=GMAIJsBc8gaXz40A"
     },
     {
       "appid": 2904890,
@@ -1123,9 +1123,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2634950/aae5577300b99489952bca138e8350317071d957/header_japanese.jpg?t=1772290875",
       "developer": "Genki Co., Ltd.",
       "publisher": "Genki Co., Ltd.",
-      "stream_url": "https://www.youtube.com/live/RESNmyVjb4I?si=MvTWUTg-1yX7jWYv",
       "release_date": "2025年9月24日",
-      "release_ts": 1758672000
+      "release_ts": 1758672000,
+      "stream_url": "https://www.youtube.com/live/RESNmyVjb4I?si=MvTWUTg-1yX7jWYv"
     },
     {
       "appid": 1322300,
@@ -1139,9 +1139,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1322300/header_japanese.jpg?t=1780304898",
       "developer": "Vaka Game Magazine",
       "publisher": "Vaka Game Magazine",
-      "stream_url": "https://www.youtube.com/live/EV8TqFR2MKs?si=y2ZgrrKPYzaIyLNo",
       "release_date": "2021年8月12日",
-      "release_ts": 1628726400
+      "release_ts": 1628726400,
+      "stream_url": "https://www.youtube.com/live/EV8TqFR2MKs?si=y2ZgrrKPYzaIyLNo"
     },
     {
       "appid": 391540,
@@ -1230,9 +1230,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1191070/8178f168a0ed98cfc3d81cc2a6598bb501163a86/header.jpg?t=1760425610",
       "developer": "Chilla's Art",
       "publisher": "Chilla's Art",
-      "stream_url": "https://www.youtube.com/live/1ky4kCcQySE?si=zo5spDwVdWNdat8O",
       "release_date": "2020年1月2日",
-      "release_ts": 1577923200
+      "release_ts": 1577923200,
+      "stream_url": "https://www.youtube.com/live/1ky4kCcQySE?si=zo5spDwVdWNdat8O"
     },
     {
       "appid": 4930640,
@@ -1351,9 +1351,9 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345020/9c040369771373e8e8765ad7c891dfc04566e2d8/header.jpg?t=1777465953",
       "developer": "Neruneko",
       "publisher": "Neruneko",
-      "stream_url": "https://www.youtube.com/live/lJhbNzXgdp8?si=WdNVOiXl17VK9V4W",
       "release_date": "2026年4月29日",
-      "release_ts": 1777420800
+      "release_ts": 1777420800,
+      "stream_url": "https://www.youtube.com/live/lJhbNzXgdp8?si=WdNVOiXl17VK9V4W"
     }
   ]
 }
