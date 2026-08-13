@@ -19,7 +19,7 @@
   "show_played": true,
 
   // 配信チャンネルの URL(設定するとページ上部にリンクが表示されます)
-  "channel_url": "",
+  "channel_url": "youtube.com/channel/UCKvEbCK8H8Mb1lv8ekbZ0jA/",
 
   // 最終プレイ日を表示するか
   "show_last_played": true,
