@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-13T07:31:45.566Z",
+  "fetched_at": "2026-08-13T07:39:15.176Z",
   "games": [
     {
       "appid": 3659180,
@@ -10,7 +10,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "？？がつくった映画館",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/2dc1cef07c217f4d340cb31552a6a53e76d30666/header_japanese.jpg?t=1747419233"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3659180/2dc1cef07c217f4d340cb31552a6a53e76d30666/header_japanese.jpg?t=1747419233",
+      "developer": "riinwin",
+      "publisher": "riinwin"
     },
     {
       "appid": 251570,
@@ -21,7 +23,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "7 Days to Die",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1785351975"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1785351975",
+      "developer": "The Fun Pimps",
+      "publisher": "The Fun Pimps Entertainment LLC"
     },
     {
       "appid": 1720850,
@@ -32,7 +36,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "A=B",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720850/header.jpg?t=1648556316"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720850/header.jpg?t=1648556316",
+      "developer": "Artless Games",
+      "publisher": "Artless Games"
     },
     {
       "appid": 2889120,
@@ -43,7 +49,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "最恐 -青鬼- / Absolute Fear -AOONI-",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2889120/header.jpg?t=1714103008"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2889120/header.jpg?t=1714103008",
+      "developer": "LiTMUS Co., Ltd.",
+      "publisher": "LiTMUS Co., Ltd."
     },
     {
       "appid": 3757210,
@@ -55,7 +63,9 @@
       "show_playtime": true,
       "name_ja": "利用規約に同意したい",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757210/b3f727889f1e8936e867f475e389226e4ced76a0/header_japanese.jpg?t=1777735933",
-      "stream_url": "https://www.youtube.com/live/7BL0fLAuUHI?si=kKmufn_-clYyaE2N"
+      "stream_url": "https://www.youtube.com/live/7BL0fLAuUHI?si=kKmufn_-clYyaE2N",
+      "developer": "べすとまん",
+      "publisher": "べすとまん"
     },
     {
       "appid": 945360,
@@ -66,7 +76,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Among Us",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1781287930"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1781287930",
+      "developer": "Innersloth",
+      "publisher": "Innersloth"
     },
     {
       "appid": 2934190,
@@ -77,7 +89,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "青鬼",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/header.jpg?t=1782880464"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934190/header.jpg?t=1782880464",
+      "developer": "Game Studio Inc.",
+      "publisher": " LiTMUS Co., Ltd."
     },
     {
       "appid": 3388870,
@@ -88,7 +102,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "青鬼 ブルーベリー温泉の怪異",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3388870/af5a8afc7965e69f906bb090422cedeaf833c6de/header_japanese.jpg?t=1761749896"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3388870/af5a8afc7965e69f906bb090422cedeaf833c6de/header_japanese.jpg?t=1761749896",
+      "developer": "Game Studio Inc.",
+      "publisher": "Game Studio Inc."
     },
     {
       "appid": 4226580,
@@ -99,7 +115,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "青鬼2",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226580/661edececff522dbc803dd059cf2906e0ecfacbf/header_japanese.jpg?t=1785942038"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226580/661edececff522dbc803dd059cf2906e0ecfacbf/header_japanese.jpg?t=1785942038",
+      "developer": "Game Studio Inc.",
+      "publisher": "Game Studio Inc."
     },
     {
       "appid": 1172470,
@@ -110,7 +128,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "エーペックスレジェンズ",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1786031871"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1786031871",
+      "developer": "Respawn",
+      "publisher": "Electronic Arts"
     },
     {
       "appid": 1888160,
@@ -121,7 +141,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "ARMORED CORE™ VI FIRES OF RUBICON™",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/header_japanese.jpg?t=1748630736"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/header_japanese.jpg?t=1748630736",
+      "developer": "FromSoftware, Inc.",
+      "publisher": "FromSoftware, Inc."
     },
     {
       "appid": 2379780,
@@ -133,7 +155,9 @@
       "show_playtime": true,
       "name_ja": "Balatro",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg?t=1786037325",
-      "stream_url": "https://www.youtube.com/live/e3ifvBvvkbs?si=8OGcOOTOKacxE5c5"
+      "stream_url": "https://www.youtube.com/live/e3ifvBvvkbs?si=8OGcOOTOKacxE5c5",
+      "developer": "LocalThunk",
+      "publisher": "Playstack"
     },
     {
       "appid": 1517290,
@@ -144,7 +168,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Battlefield™ 2042",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1777324359"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1777324359",
+      "developer": "DICE",
+      "publisher": "Electronic Arts"
     },
     {
       "appid": 255710,
@@ -155,7 +181,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Cities: Skylines",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1782396165"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1782396165",
+      "developer": "Colossal Order",
+      "publisher": "Paradox Interactive"
     },
     {
       "appid": 3314790,
@@ -167,7 +195,9 @@
       "show_playtime": true,
       "name_ja": "CloverPit",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8ba81356b84aa937573fa29fdd708dbd96b01537/header.jpg?t=1784649345",
-      "stream_url": "https://www.youtube.com/live/Xd4sSHwwRs0?si=yvqP1qyC4J8s6jif"
+      "stream_url": "https://www.youtube.com/live/Xd4sSHwwRs0?si=yvqP1qyC4J8s6jif",
+      "developer": "Panik Arcade",
+      "publisher": "Future Friends Games"
     },
     {
       "appid": 4015010,
@@ -178,7 +208,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "シニ戻リ誰ガ為",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015010/dca5f81ecfa8cb9c99417a8266818bd5dbb777f9/header_japanese.jpg?t=1784272499"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015010/dca5f81ecfa8cb9c99417a8266818bd5dbb777f9/header_japanese.jpg?t=1784272499",
+      "developer": "riinwin",
+      "publisher": "riinwin"
     },
     {
       "appid": 3930510,
@@ -189,7 +221,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Don't Let It Starve",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/f49a9c9355f66adf32daf6f235518c0623fdd849/header.jpg?t=1782318377"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930510/f49a9c9355f66adf32daf6f235518c0623fdd849/header.jpg?t=1782318377",
+      "developer": "Eduardo Scarpato",
+      "publisher": "Black Lantern Collective"
     },
     {
       "appid": 3114900,
@@ -200,7 +234,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Dread Flats",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114900/header.jpg?t=1783946206"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114900/header.jpg?t=1783946206",
+      "developer": "Ghostcase",
+      "publisher": "Ghostcase"
     },
     {
       "appid": 4111260,
@@ -211,7 +247,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "悪意",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111260/84a64fa6dc33458da3a3cdff74d1f140dd3f9896/header.jpg?t=1785252878"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111260/84a64fa6dc33458da3a3cdff74d1f140dd3f9896/header.jpg?t=1785252878",
+      "developer": " Ghostcase",
+      "publisher": "Erabit"
     },
     {
       "appid": 2356780,
@@ -222,7 +260,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "ダンジョンクロウラー幸運ウサギと魔法の爪",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/header_japanese.jpg?t=1785746168"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356780/header_japanese.jpg?t=1785746168",
+      "developer": "Stray Fawn Studio",
+      "publisher": "Stray Fawn Publishing"
     },
     {
       "appid": 383870,
@@ -233,7 +273,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Firewatch",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383870/41a7d0ff4c2dab4ed69c53c9a29c931e6f62948d/header.jpg?t=1755789801"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383870/41a7d0ff4c2dab4ed69c53c9a29c931e6f62948d/header.jpg?t=1755789801",
+      "developer": "Campo Santo",
+      "publisher": "Panic"
     },
     {
       "appid": 4849010,
@@ -244,7 +286,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "FOCUS",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208",
+      "developer": " kuma-hacker",
+      "publisher": " kuma-hacker"
     },
     {
       "appid": 3846030,
@@ -255,7 +299,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "禁足地 - 青鬼の窟 -",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846030/4ca13ef65ae28acc1fa83912821d0ed85c4c440c/header_japanese.jpg?t=1756436726"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846030/4ca13ef65ae28acc1fa83912821d0ed85c4c440c/header_japanese.jpg?t=1756436726",
+      "developer": "HYDE, Inc.",
+      "publisher": "HYDE, Inc."
     },
     {
       "appid": 2976400,
@@ -266,7 +312,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "丁字路",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976400/header.jpg?t=1746655035"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2976400/header.jpg?t=1746655035",
+      "developer": "Simon Au Yeung",
+      "publisher": "Simon Au Yeung"
     },
     {
       "appid": 240720,
@@ -277,7 +325,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Getting Over It with Bennett Foddy",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240720/header.jpg?t=1666987027"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240720/header.jpg?t=1666987027",
+      "developer": "Bennett Foddy",
+      "publisher": "Bennett Foddy"
     },
     {
       "appid": 2820200,
@@ -288,7 +338,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "霊室",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820200/header_japanese.jpg?t=1785669754"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820200/header_japanese.jpg?t=1785669754",
+      "developer": "Yajin",
+      "publisher": "YajinGameProject"
     },
     {
       "appid": 3344150,
@@ -300,7 +352,9 @@
       "show_playtime": true,
       "name_ja": "Gift Collector [ギフトコレクター]",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344150/bff098e67d344d62dbf47a2b982c06d81b3eb5cb/header.jpg?t=1776012747",
-      "stream_url": "https://www.youtube.com/live/N0vxEINNrsA?si=lv_p8eYzDYfJRAdx"
+      "stream_url": "https://www.youtube.com/live/N0vxEINNrsA?si=lv_p8eYzDYfJRAdx",
+      "developer": "Notex",
+      "publisher": "Notex"
     },
     {
       "appid": 3213850,
@@ -311,7 +365,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "gogh: Focus with Your Avatar",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/b48d1b94b9638d0b481e27227b2cf3f43eb70658/header.jpg?t=1783697023"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/b48d1b94b9638d0b481e27227b2cf3f43eb70658/header.jpg?t=1783697023",
+      "developer": "ambr",
+      "publisher": "ambr"
     },
     {
       "appid": 4018740,
@@ -322,7 +378,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Hariti",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018740/33039aac8f79847143cf85fda094e7263f066de3/header.jpg?t=1786496319"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018740/33039aac8f79847143cf85fda094e7263f066de3/header.jpg?t=1786496319",
+      "developer": "Ghostcase",
+      "publisher": "Ghostcase"
     },
     {
       "appid": 394360,
@@ -333,7 +391,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Hearts of Iron IV",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1782396105"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1782396105",
+      "developer": "Paradox Development Studio",
+      "publisher": "Paradox Interactive"
     },
     {
       "appid": 2420510,
@@ -344,7 +404,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "HoloCure - Save the Fans!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/header.jpg?t=1740642230"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/header.jpg?t=1740642230",
+      "developer": "KayAnimate",
+      "publisher": "KayAnimate"
     },
     {
       "appid": 2972990,
@@ -355,7 +417,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "ホロライブお宝マウンテン",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2972990/header_japanese.jpg?t=1782289167"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2972990/header_japanese.jpg?t=1782289167",
+      "developer": "BeXide Inc.",
+      "publisher": "holo Indie"
     },
     {
       "appid": 3906770,
@@ -367,7 +431,9 @@
       "show_playtime": true,
       "name_ja": "恐怖耐性診断テスト",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3906770/72c58fbaa8a0ba084dc19ba44b87d3836d7dc243/header_japanese.jpg?t=1766114644",
-      "stream_url": "https://www.youtube.com/live/FvWSq6Io-XY?si=iTdiBthAakN30Xje"
+      "stream_url": "https://www.youtube.com/live/FvWSq6Io-XY?si=iTdiBthAakN30Xje",
+      "developer": "うさうさはっぴーげーむず",
+      "publisher": "うさうさはっぴーげーむず"
     },
     {
       "appid": 3809110,
@@ -379,7 +445,9 @@
       "show_playtime": true,
       "name_ja": "日本事故物件監視協会 -Japan Stigmatized Property-",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809110/45535eab1be845a0529e4eb546621821955b75df/header_japanese.jpg?t=1766482045",
-      "stream_url": "https://www.youtube.com/live/2WNvN61feqM?si=CZ27QbB5NaNz19Xa"
+      "stream_url": "https://www.youtube.com/live/2WNvN61feqM?si=CZ27QbB5NaNz19Xa",
+      "developer": "日本事故物件監視協会",
+      "publisher": "日本事故物件監視協会"
     },
     {
       "appid": 4611990,
@@ -390,7 +458,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "日本事故物件監視協会3 -Japan Stigmatized Property-",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611990/9c8c49e304cf07404d7ed037e666f55acce9ef68/header_japanese.jpg?t=1786104932"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611990/9c8c49e304cf07404d7ed037e666f55acce9ef68/header_japanese.jpg?t=1786104932",
+      "developer": "日本事故物件監視協会",
+      "publisher": "日本事故物件監視協会"
     },
     {
       "appid": 1742930,
@@ -401,7 +471,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "上に天井がある。",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742930/header_japanese.jpg?t=1785997986"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742930/header_japanese.jpg?t=1785997986",
+      "developer": "silver978",
+      "publisher": "IndieArk"
     },
     {
       "appid": 1305300,
@@ -412,7 +484,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "ラブラブスクールデイズ",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1305300/header.jpg?t=1677216852"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1305300/header.jpg?t=1677216852",
+      "developer": "OTL GAME",
+      "publisher": "OTL GAME"
     },
     {
       "appid": 1519900,
@@ -423,7 +497,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "真砂楼",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519900/header_japanese.jpg?t=1651855217"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519900/header_japanese.jpg?t=1651855217",
+      "developer": "DorsalFin Studio",
+      "publisher": "DorsalFin Studio"
     },
     {
       "appid": 3575730,
@@ -435,7 +511,9 @@
       "show_playtime": true,
       "name_ja": "へべれけ ばにーがーでん",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3575730/bc7733a55332031cad502e90aed5773fd7f2a36d/header_japanese.jpg?t=1779867958",
-      "stream_url": "https://www.youtube.com/live/85TIxq-T0zI?si=iPK79ndZX0oV4aNQ"
+      "stream_url": "https://www.youtube.com/live/85TIxq-T0zI?si=iPK79ndZX0oV4aNQ",
+      "developer": "qureate",
+      "publisher": "qureate"
     },
     {
       "appid": 576030,
@@ -446,7 +524,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "MHRD",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576030/header.jpg?t=1707994633"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576030/header.jpg?t=1707994633",
+      "developer": "Funghisoft",
+      "publisher": "Funghisoft"
     },
     {
       "appid": 3065170,
@@ -457,7 +537,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Monster Hunter Wilds Beta test",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065170/header.jpg?t=1738810885"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065170/header.jpg?t=1738810885",
+      "developer": null,
+      "publisher": null
     },
     {
       "appid": 1964310,
@@ -468,7 +550,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "もろだし相撲",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964310/header_japanese.jpg?t=1660111454"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964310/header_japanese.jpg?t=1660111454",
+      "developer": "Bakumatsu Games",
+      "publisher": "Bakumatsu Games"
     },
     {
       "appid": 2693860,
@@ -479,7 +563,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "鳴蟇村",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693860/header_japanese.jpg?t=1783742826"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693860/header_japanese.jpg?t=1783742826",
+      "developer": "DorsalFin Studio",
+      "publisher": "DorsalFin Studio"
     },
     {
       "appid": 2597260,
@@ -490,7 +576,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "ナツノカナタ beyond",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597260/header.jpg?t=1725016640"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597260/header.jpg?t=1725016640",
+      "developer": "Kazuhide Oka",
+      "publisher": "Waku Waku Games"
     },
     {
       "appid": 3979330,
@@ -501,7 +589,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "nophenia",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979330/a1e904099fd3f3fc59a75090ddbb5f41bba1be8c/header.jpg?t=1783364670"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979330/a1e904099fd3f3fc59a75090ddbb5f41bba1be8c/header.jpg?t=1783364670",
+      "developer": "lane",
+      "publisher": "lane"
     },
     {
       "appid": 3232860,
@@ -512,7 +602,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "奥ヶ淵商店街",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/f10bc66960c478b4935eaa9b35670c6352efc203/header_japanese.jpg?t=1786100115"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232860/f10bc66960c478b4935eaa9b35670c6352efc203/header_japanese.jpg?t=1786100115",
+      "developer": "DorsalFin Studio",
+      "publisher": "DorsalFin Studio"
     },
     {
       "appid": 893720,
@@ -523,7 +615,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "One Hand Clapping",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/893720/167f02e060a5c8e43580e91711efbd20c1d334e1/header.jpg?t=1786371032"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/893720/167f02e060a5c8e43580e91711efbd20c1d334e1/header.jpg?t=1786371032",
+      "developer": "Bad Dream Games",
+      "publisher": "HandyGames"
     },
     {
       "appid": 3151270,
@@ -534,7 +628,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "One Turn Kill",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/header.jpg?t=1778770962"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/header.jpg?t=1778770962",
+      "developer": "DenDen",
+      "publisher": "Waku Waku Games"
     },
     {
       "appid": 2435020,
@@ -545,7 +641,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "怨禍",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2435020/header_japanese.jpg?t=1761936772"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2435020/header_japanese.jpg?t=1761936772",
+      "developer": "Yajin",
+      "publisher": "YajinGameProject"
     },
     {
       "appid": 919370,
@@ -556,7 +654,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Overdungeon | オーバーダンジョン",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/919370/header_japanese.jpg?t=1735195241"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/919370/header_japanese.jpg?t=1735195241",
+      "developer": "Pocketpair",
+      "publisher": "Pocketpair"
     },
     {
       "appid": 739630,
@@ -567,7 +667,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Phasmophobia",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1785937507"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1785937507",
+      "developer": "Kinetic Games",
+      "publisher": "Kinetic Games"
     },
     {
       "appid": 4286120,
@@ -578,7 +680,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Photomaly",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286120/18b61f7a1390d9f0d80c5d9058a8f1ee78884fef/header_japanese.jpg?t=1785764223"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286120/18b61f7a1390d9f0d80c5d9058a8f1ee78884fef/header_japanese.jpg?t=1785764223",
+      "developer": "Revira Interactive",
+      "publisher": "Alibi Games"
     },
     {
       "appid": 2224790,
@@ -590,7 +694,9 @@
       "show_playtime": true,
       "name_ja": "PIEN-ぴえん- & PAON-ぱおん- plus",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224790/header.jpg?t=1670313707",
-      "stream_url": "https://www.youtube.com/live/QZxGwIIRJcQ?si=EfQ0sXAUXZI_AhoQ"
+      "stream_url": "https://www.youtube.com/live/QZxGwIIRJcQ?si=EfQ0sXAUXZI_AhoQ",
+      "developer": "くそいサイト",
+      "publisher": "くそいサイト"
     },
     {
       "appid": 493340,
@@ -601,7 +707,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "プラネットコースター",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493340/header.jpg?t=1782480201"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/493340/header.jpg?t=1782480201",
+      "developer": "Frontier Developments",
+      "publisher": "Frontier Developments"
     },
     {
       "appid": 2903560,
@@ -613,7 +721,9 @@
       "show_playtime": true,
       "name_ja": "８番のりば",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2903560/header.jpg?t=1756693767",
-      "stream_url": "https://www.youtube.com/live/kDZozAdLz4I?si=JRFlRu4pzggoayNC"
+      "stream_url": "https://www.youtube.com/live/kDZozAdLz4I?si=JRFlRu4pzggoayNC",
+      "developer": "KOTAKE CREATE",
+      "publisher": "PLAYISM"
     },
     {
       "appid": 3461950,
@@ -625,7 +735,9 @@
       "show_playtime": true,
       "name_ja": "霊屋",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461950/176416a52c2ed08d2c905a4ced35e7061cd1d690/header_japanese.jpg?t=1785669071",
-      "stream_url": "https://www.youtube.com/live/RT6HFGVKnIw?si=Q_eHDskVXaiTM98-"
+      "stream_url": "https://www.youtube.com/live/RT6HFGVKnIw?si=Q_eHDskVXaiTM98-",
+      "developer": "Yajin",
+      "publisher": "YajinGameProject"
     },
     {
       "appid": 3500750,
@@ -637,7 +749,9 @@
       "show_playtime": true,
       "name_ja": "恐怖の採点 -Score the Fear-",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3500750/header.jpg?t=1751786141",
-      "stream_url": "https://www.youtube.com/live/AwvLpsNSnsw?si=6aANjXBPyE4FsJS-"
+      "stream_url": "https://www.youtube.com/live/AwvLpsNSnsw?si=6aANjXBPyE4FsJS-",
+      "developer": "AquaEternity",
+      "publisher": "AquaEternity"
     },
     {
       "appid": 1025250,
@@ -649,7 +763,9 @@
       "show_playtime": true,
       "name_ja": "Shadow Corridor",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1025250/header.jpg?t=1675614483",
-      "stream_url": "https://www.youtube.com/live/ebdAjGsM7PQ?si=uzB6u9RtJU0mURMG"
+      "stream_url": "https://www.youtube.com/live/ebdAjGsM7PQ?si=uzB6u9RtJU0mURMG",
+      "developer": "Space Onigiri Game LLC",
+      "publisher": "Space Onigiri Game LLC"
     },
     {
       "appid": 2310700,
@@ -660,7 +776,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Shadow Corridor 2 雨ノ四葩",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/header.jpg?t=1755246293"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310700/header.jpg?t=1755246293",
+      "developer": "Space Onigiri Game LLC",
+      "publisher": "Space Onigiri Game LLC"
     },
     {
       "appid": 2584990,
@@ -672,7 +790,9 @@
       "show_playtime": true,
       "name_ja": "Shadowverse: Worlds Beyond",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584990/bab5a90e2765d340ca3ba8553e1b0ee679176dda/header_japanese.jpg?t=1784686421",
-      "stream_url": "https://www.youtube.com/live/hKw8zm1mdp0?si=ZvaKtbTp7OhZSIHO"
+      "stream_url": "https://www.youtube.com/live/hKw8zm1mdp0?si=ZvaKtbTp7OhZSIHO",
+      "developer": "Cygames, Inc.",
+      "publisher": "Cygames, Inc."
     },
     {
       "appid": 3722330,
@@ -683,7 +803,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Shift At Midnight",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1786465129"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1786465129",
+      "developer": "Bun Muen",
+      "publisher": "Kwalee"
     },
     {
       "appid": 4227950,
@@ -694,7 +816,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "醤油ラーメンFOREVER",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227950/cd554fa6551a7d5d9c2d4410ab01a420585b6413/header.jpg?t=1770555257"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4227950/cd554fa6551a7d5d9c2d4410ab01a420585b6413/header.jpg?t=1770555257",
+      "developer": "POCKET HORROR BOX",
+      "publisher": "POCKET HORROR BOX"
     },
     {
       "appid": 4938200,
@@ -705,7 +829,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Snowed Under | 雪葬",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938200/7f34f5744c8b735b0af7c0631b1d786956f1397a/header.jpg?t=1786586901"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938200/7f34f5744c8b735b0af7c0631b1d786956f1397a/header.jpg?t=1786604862",
+      "developer": " Chilla's Art",
+      "publisher": " Chilla's Art"
     },
     {
       "appid": 4819370,
@@ -716,7 +842,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "スパンキング除霊師",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819370/0897c767aadb0cd5c7d87a48295ff5df3e493611/header_japanese.jpg?t=1785932775"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819370/0897c767aadb0cd5c7d87a48295ff5df3e493611/header_japanese.jpg?t=1785932775",
+      "developer": "Actor",
+      "publisher": "Actor"
     },
     {
       "appid": 2292060,
@@ -727,7 +855,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Spell Disk",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292060/header.jpg?t=1784582888"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292060/header.jpg?t=1784582888",
+      "developer": "Sunpeak Games",
+      "publisher": "Sunpeak Games"
     },
     {
       "appid": 897220,
@@ -738,7 +868,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Summer Pockets",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897220/header_japanese.jpg?t=1732683225"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897220/header_japanese.jpg?t=1732683225",
+      "developer": "VisualArts/Key",
+      "publisher": "VisualArts"
     },
     {
       "appid": 3418570,
@@ -749,7 +881,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "Summer Pockets REFLECTION BLUE",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418570/3ecfde9ce2b88e00514a2986a5e8b8fc91b37420/header.jpg?t=1756793980"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418570/3ecfde9ce2b88e00514a2986a5e8b8fc91b37420/header.jpg?t=1756793980",
+      "developer": "VISUAL ARTS/Key",
+      "publisher": "VISUAL ARTS"
     },
     {
       "appid": 4181410,
@@ -760,7 +894,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "The Alley",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4181410/2fc2e44dbb11a2b0230f049ed73e5debd50976f7/header.jpg?t=1786092341"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4181410/2fc2e44dbb11a2b0230f049ed73e5debd50976f7/header.jpg?t=1786092341",
+      "developer": "AIXLAB",
+      "publisher": "Smilegate"
     },
     {
       "appid": 2814910,
@@ -772,7 +908,9 @@
       "show_playtime": true,
       "name_ja": "アクアリウムは踊らない",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814910/header.jpg?t=1754633746",
-      "stream_url": "https://www.youtube.com/live/_KP3ZJVQXNw?si=yMYwbvT-U5INUUiM"
+      "stream_url": "https://www.youtube.com/live/_KP3ZJVQXNw?si=yMYwbvT-U5INUUiM",
+      "developer": "橙々",
+      "publisher": "Gotcha Gotcha Games"
     },
     {
       "appid": 2653790,
@@ -784,7 +922,9 @@
       "show_playtime": true,
       "name_ja": "８番出口",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653790/header.jpg?t=1756464433",
-      "stream_url": "https://www.youtube.com/live/yo-RIH8rs54?si=GMAIJsBc8gaXz40A"
+      "stream_url": "https://www.youtube.com/live/yo-RIH8rs54?si=GMAIJsBc8gaXz40A",
+      "developer": "KOTAKE CREATE",
+      "publisher": "PLAYISM"
     },
     {
       "appid": 2904890,
@@ -795,7 +935,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "The Game of Sisyphus",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904890/header.jpg?t=1776328950"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904890/header.jpg?t=1776328950",
+      "developer": "cream",
+      "publisher": "cream"
     },
     {
       "appid": 885810,
@@ -806,7 +948,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "魔女の家MV",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885810/header.jpg?t=1772601594"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885810/header.jpg?t=1772601594",
+      "developer": "Fummy",
+      "publisher": "DANGEN Entertainment"
     },
     {
       "appid": 4038320,
@@ -817,7 +961,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "『This Ain’t Even Poker, Ya Joker　こんなのポーカーじゃない』",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038320/5754be8023731dc98d8df4d3d98a62cce33b615e/header.jpg?t=1768502326"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038320/5754be8023731dc98d8df4d3d98a62cce33b615e/header.jpg?t=1768502326",
+      "developer": "Mash",
+      "publisher": "Oro Interactive"
     },
     {
       "appid": 2634950,
@@ -829,7 +975,9 @@
       "show_playtime": true,
       "name_ja": "首都高バトル",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2634950/aae5577300b99489952bca138e8350317071d957/header_japanese.jpg?t=1772290875",
-      "stream_url": "https://www.youtube.com/live/RESNmyVjb4I?si=MvTWUTg-1yX7jWYv"
+      "stream_url": "https://www.youtube.com/live/RESNmyVjb4I?si=MvTWUTg-1yX7jWYv",
+      "developer": "Genki Co., Ltd.",
+      "publisher": "Genki Co., Ltd."
     },
     {
       "appid": 1322300,
@@ -841,7 +989,9 @@
       "show_playtime": true,
       "name_ja": "つぐのひ",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1322300/header_japanese.jpg?t=1780304898",
-      "stream_url": "https://www.youtube.com/live/EV8TqFR2MKs?si=y2ZgrrKPYzaIyLNo"
+      "stream_url": "https://www.youtube.com/live/EV8TqFR2MKs?si=y2ZgrrKPYzaIyLNo",
+      "developer": "Vaka Game Magazine",
+      "publisher": "Vaka Game Magazine"
     },
     {
       "appid": 391540,
@@ -852,7 +1002,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "Undertale",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg?t=1757349115"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg?t=1757349115",
+      "developer": "tobyfox",
+      "publisher": "tobyfox"
     },
     {
       "appid": 438100,
@@ -863,7 +1015,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "VRChat",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1762366454"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1762366454",
+      "developer": "VRChat Inc.",
+      "publisher": "VRChat Inc."
     },
     {
       "appid": 1325860,
@@ -874,7 +1028,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "VTube Studio",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/header.jpg?t=1750309780"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/header.jpg?t=1750309780",
+      "developer": "DenchiSoft",
+      "publisher": "DenchiSoft"
     },
     {
       "appid": 1879750,
@@ -885,7 +1041,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "米砂原醫院",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1879750/header_japanese.jpg?t=1688058928"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1879750/header_japanese.jpg?t=1688058928",
+      "developer": "DorsalFin Studio",
+      "publisher": "DorsalFin Studio"
     },
     {
       "appid": 1449850,
@@ -896,7 +1054,9 @@
       "played": true,
       "show_playtime": true,
       "name_ja": "Yu-Gi-Oh! Master Duel",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449850/3dabbf618664c7a561202771e3754b6690949159/header.jpg?t=1785465152"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449850/3dabbf618664c7a561202771e3754b6690949159/header.jpg?t=1785465152",
+      "developer": "KONAMI",
+      "publisher": "KONAMI"
     },
     {
       "appid": 1191070,
@@ -908,7 +1068,9 @@
       "show_playtime": true,
       "name_ja": "[Chilla's Art] Yuki Onna | 雪女",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1191070/8178f168a0ed98cfc3d81cc2a6598bb501163a86/header.jpg?t=1760425610",
-      "stream_url": "https://www.youtube.com/live/1ky4kCcQySE?si=zo5spDwVdWNdat8O"
+      "stream_url": "https://www.youtube.com/live/1ky4kCcQySE?si=zo5spDwVdWNdat8O",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art"
     },
     {
       "appid": 4930640,
@@ -919,7 +1081,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "おかあさん",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930640/5e614c7f6dcff990ed2242946d40b2f8fdf99885/header.jpg?t=1785149287"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930640/5e614c7f6dcff990ed2242946d40b2f8fdf99885/header.jpg?t=1785149287",
+      "developer": "Purihana",
+      "publisher": "Purihana"
     },
     {
       "appid": 4485940,
@@ -930,7 +1094,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "何度目かの式",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485940/c1ef3a6438200a9efee7aeaad555c3204e8ab885/header_japanese.jpg?t=1775660655"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485940/c1ef3a6438200a9efee7aeaad555c3204e8ab885/header_japanese.jpg?t=1775660655",
+      "developer": "orange",
+      "publisher": "orange"
     },
     {
       "appid": 3855970,
@@ -941,7 +1107,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "小枠内館の祝 KOWAKUNAI CELEBRATION",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855970/890a8723e13f808a668f687a7ee58a2df951fa13/header.jpg?t=1753362297"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855970/890a8723e13f808a668f687a7ee58a2df951fa13/header.jpg?t=1753362297",
+      "developer": "ArezigokuGames",
+      "publisher": "ArezigokuGames"
     },
     {
       "appid": 4193270,
@@ -952,7 +1120,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "日本事故物件監視協会2 -Japan Stigmatized Property-",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193270/9c7d0b860d5a7879359da52a9694875e1080c90e/header_japanese.jpg?t=1766481979"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193270/9c7d0b860d5a7879359da52a9694875e1080c90e/header_japanese.jpg?t=1766481979",
+      "developer": "日本事故物件監視協会",
+      "publisher": "日本事故物件監視協会"
     },
     {
       "appid": 2519520,
@@ -963,7 +1133,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "死写 -SHISYA-",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519520/header.jpg?t=1722392459"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519520/header.jpg?t=1722392459",
+      "developer": "TEAM SHINZA",
+      "publisher": "TEAM SHINZA"
     },
     {
       "appid": 3058080,
@@ -974,7 +1146,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "死写2 -SHISYA2- GHOST VIDEO",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058080/header.jpg?t=1725525612"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058080/header.jpg?t=1725525612",
+      "developer": "TEAM SHINZA",
+      "publisher": "TEAM SHINZA"
     },
     {
       "appid": 4725780,
@@ -985,7 +1159,9 @@
       "played": false,
       "show_playtime": true,
       "name_ja": "死写ZERO -SHISYA ZERO-",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725780/5a6b811bf8fe742c46abf6940ccb22be829bb47f/header.jpg?t=1785423613"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725780/5a6b811bf8fe742c46abf6940ccb22be829bb47f/header.jpg?t=1785423613",
+      "developer": "TEAM SHINZA",
+      "publisher": "TEAM SHINZA"
     },
     {
       "appid": 4345020,
@@ -997,7 +1173,9 @@
       "show_playtime": true,
       "name_ja": "百尺様",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4345020/9c040369771373e8e8765ad7c891dfc04566e2d8/header.jpg?t=1777465953",
-      "stream_url": "https://www.youtube.com/live/lJhbNzXgdp8?si=WdNVOiXl17VK9V4W"
+      "stream_url": "https://www.youtube.com/live/lJhbNzXgdp8?si=WdNVOiXl17VK9V4W",
+      "developer": "Neruneko",
+      "publisher": "Neruneko"
     }
   ]
 }
