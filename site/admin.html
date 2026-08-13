@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Game Shelf Admin</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚙️</text></svg>">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="title-block">
+        <h1 id="admin-title">表示設定の管理</h1>
+        <p id="admin-subtitle" class="description"></p>
+      </div>
+      <button id="lang-toggle" class="lang-toggle" type="button">English</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="setup" class="admin-card">
+      <h2 id="setup-title"></h2>
+      <p id="setup-help" class="admin-help"></p>
+      <div class="admin-form">
+        <label>
+          <span id="label-repo"></span>
+          <input id="repo-input" type="text" placeholder="owner/repository" autocomplete="off" spellcheck="false">
+        </label>
+        <label>
+          <span id="label-token"></span>
+          <input id="token-input" type="password" placeholder="github_pat_..." autocomplete="off">
+        </label>
+        <p id="token-help" class="admin-help small"></p>
+        <button id="load-button" class="admin-button primary" type="button"></button>
+        <p id="setup-status" class="admin-status"></p>
+        <a id="setup-actions-link" class="admin-button small" target="_blank" rel="noopener" hidden></a>
+      </div>
+    </section>
+
+    <section id="settings-card" class="admin-card" hidden>
+      <h2 id="settings-title"></h2>
+      <div class="admin-form">
+        <label>
+          <span id="label-site-title"></span>
+          <input id="set-site-title" type="text" autocomplete="off">
+        </label>
+        <label>
+          <span id="label-default-lang"></span>
+          <select id="set-default-lang" class="sort">
+            <option value="ja">日本語 (ja)</option>
+            <option value="en">English (en)</option>
+          </select>
+        </label>
+        <h3 id="group-display-items" class="admin-subheading"></h3>
+        <p id="help-display-items" class="admin-help small"></p>
+        <label class="admin-check">
+          <input id="set-show-playtime" type="checkbox">
+          <span id="label-show-playtime"></span>
+        </label>
+        <label class="admin-check">
+          <input id="set-show-played" type="checkbox">
+          <span id="label-show-played"></span>
+        </label>
+        <label>
+          <span id="label-channel-url"></span>
+          <input id="set-channel-url" type="url" autocomplete="off" spellcheck="false" placeholder="https://www.youtube.com/@...">
+        </label>
+      </div>
+    </section>
+
+    <section id="editor" class="admin-card" hidden>
+      <div class="admin-editor-head">
+        <h2 id="editor-title"></h2>
+        <div class="view-toggle">
+          <button id="view-list" class="admin-button small" type="button"></button>
+          <button id="view-cards" class="admin-button small" type="button"></button>
+        </div>
+      </div>
+      <div class="admin-toolbar">
+        <input id="admin-search" class="search" type="search" autocomplete="off">
+        <select id="admin-sort" class="sort"></select>
+      </div>
+      <p id="counts" class="admin-help"></p>
+      <div id="game-list" class="admin-list"></div>
+      <div id="game-cards" class="grid admin-grid" hidden></div>
+
+      <div class="admin-savebar">
+        <label class="admin-published">
+          <input id="published-toggle" type="checkbox">
+          <span id="label-published"></span>
+        </label>
+        <button id="save-button" class="admin-button primary" type="button"></button>
+      </div>
+      <p id="status" class="admin-status"></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <a id="back-link" href="./"></a>
+  </footer>
+
+  <script type="module" src="admin.js"></script>
+</body>
+</html>
