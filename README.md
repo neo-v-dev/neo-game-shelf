@@ -4,12 +4,10 @@
 
 Steam の所有ゲーム一覧を取得して、GitHub Pages で公開できるサイトを自動生成するテンプレートです。配信者が「持っているゲーム」を視聴者に公開する用途を想定しています。
 
-<!-- DEMO_LINK_START -->
-**デモを見る**: [公開ページ](https://neo-v-dev.github.io/steam-game-shelf/) / [管理ページ(操作のみ・保存不可)](https://neo-v-dev.github.io/steam-game-shelf/admin.html?demo=1)(サンプルデータの常設デモです)
-<!-- DEMO_LINK_END -->
+
 
 <!-- MY_LINKS_START -->
-初回の Update game list 実行後、ここにあなたのサイトへのリンクが自動で入ります(この区間は自動管理です)
+**あなたのサイト**: https://neo-v-dev.github.io/neo-game-shelf/ / **管理ページ**: https://neo-v-dev.github.io/neo-game-shelf/admin.html
 <!-- MY_LINKS_END -->
 
 - **無料で動作**: GitHub の無料枠(Actions + Pages)だけで完結。サーバー不要。
