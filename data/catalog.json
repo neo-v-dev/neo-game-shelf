@@ -792,7 +792,7 @@
       "playtime_forever": 37,
       "rtime_last_played": 1721437398,
       "visible": true,
-      "played": true,
+      "played": false,
       "show_playtime": true,
       "name_ja": "The Game of Sisyphus",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904890/header.jpg?t=1776328950"
