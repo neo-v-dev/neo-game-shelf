@@ -398,7 +398,7 @@
       "playtime_forever": 18,
       "rtime_last_played": 1735350509,
       "visible": true,
-      "played": true,
+      "played": false,
       "show_playtime": true,
       "name_ja": "上に天井がある。",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742930/header_japanese.jpg?t=1785997986"
