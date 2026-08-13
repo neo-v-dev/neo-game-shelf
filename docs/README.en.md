@@ -4,16 +4,18 @@
 
 A template that fetches your owned games from Steam and publishes them as a website on GitHub Pages. Designed for streamers who want to share their game library with viewers.
 
-
+<!-- DEMO_LINK_START -->
+**See it live**: [public page](https://neo-v-dev.github.io/steam-game-shelf/) / [admin page (UI only, saving disabled)](https://neo-v-dev.github.io/steam-game-shelf/admin.html?demo=1) — a permanent demo with sample data.
+<!-- DEMO_LINK_END -->
 
 <!-- MY_LINKS_START -->
-**Your site**: https://neo-v-dev.github.io/neo-game-shelf/ / **Admin page**: https://neo-v-dev.github.io/neo-game-shelf/admin.html
+After the first "Update game list" run, links to your own site will be filled in here automatically (this section is auto-managed)
 <!-- MY_LINKS_END -->
 
 - **Free**: Runs entirely on GitHub's free tier (Actions + Pages). No server needed.
 - **Auto update**: The list refreshes daily; manual refresh is one click.
 - **Admin page**: Edit visibility, played tags, per-game playtime display, stream links, and site settings in your browser, with a thumbnail-card view (default) and a list view. Includes search, sort (name / playtime / recently played), and per-game playtime + last-played info.
-- **Stream links**: A channel link at the top of the page, plus per-game stream/video links (▶ icon on cards). Only YouTube (`youtube.com` / `youtu.be`) and Twitch (`twitch.tv`) links are accepted — this restriction protects viewers from malicious links.
+- **Stream links**: A channel link at the top of the page, plus per-game stream/video links (▶ icon on cards). Only YouTube (`youtube.com` / `youtu.be`), Twitch (`twitch.tv`), and niconico (`nicovideo.jp` / `nico.ms`) links are accepted — this restriction protects viewers from malicious links.
 - **Hide games**: Exclude any game from the site.
 - **Played tags**: Auto-detected from playtime, editable per game; shown as badges and usable as a filter (can also be hidden site-wide).
 - **Japanese / English**: Viewers can switch languages on the site.

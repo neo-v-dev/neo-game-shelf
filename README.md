@@ -4,10 +4,12 @@
 
 Steam の所有ゲーム一覧を取得して、GitHub Pages で公開できるサイトを自動生成するテンプレートです。配信者が「持っているゲーム」を視聴者に公開する用途を想定しています。
 
-
+<!-- DEMO_LINK_START -->
+**デモを見る**: [公開ページ](https://neo-v-dev.github.io/steam-game-shelf/) / [管理ページ(操作のみ・保存不可)](https://neo-v-dev.github.io/steam-game-shelf/admin.html?demo=1)(サンプルデータの常設デモです)
+<!-- DEMO_LINK_END -->
 
 <!-- MY_LINKS_START -->
-**あなたのサイト**: https://neo-v-dev.github.io/neo-game-shelf/ / **管理ページ**: https://neo-v-dev.github.io/neo-game-shelf/admin.html
+初回の Update game list 実行後、ここにあなたのサイトへのリンクが自動で入ります(この区間は自動管理です)
 <!-- MY_LINKS_END -->
 
 - **無料で動作**: GitHub の無料枠(Actions + Pages)だけで完結。サーバー不要。
@@ -16,7 +18,7 @@ Steam の所有ゲーム一覧を取得して、GitHub Pages で公開できる�
 - **非表示設定**: 見せたくないゲームをサイトから除外可能。
 - **プレイ済みタグ**: 初期値はプレイ時間から自動判定。サイト上でバッジ表示&絞り込みできる(サイト全体で非表示にすることも可能)。
 - **プレイ時間の表示制御**: サイト全体の一括OFFと、ゲームごとの個別OFFの両方に対応。
-- **配信リンク**: ページ上部にチャンネルリンク、各ゲームに配信/動画リンク(▶アイコン)を設定可能。対応は YouTube(`youtube.com` / `youtu.be`)と Twitch(`twitch.tv`)のみで、閲覧者を有害なリンクから守るための制限です。
+- **配信リンク**: ページ上部にチャンネルリンク、各ゲームに配信/動画リンク(▶アイコン)を設定可能。対応は YouTube(`youtube.com` / `youtu.be`)、Twitch(`twitch.tv`)、niconico(`nicovideo.jp` / `nico.ms`)のみで、閲覧者を有害なリンクから守るための制限です。
 - **日本語 / 英語**: 閲覧者がサイト上で切り替え可能。
 - **日本語ゲーム名**: 邦題を自動取得し、日本語表示時は邦題で表示(検索は原題・邦題の両方にヒット)。
 
