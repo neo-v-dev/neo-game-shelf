@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-13T19:02:21.301Z",
+  "fetched_at": "2026-08-14T10:55:31.352Z",
   "games": [
     {
       "appid": 3659180,
@@ -76,6 +76,21 @@
       "release_date": "2025年12月4日",
       "release_ts": 1764806400,
       "stream_url": "https://www.youtube.com/live/7BL0fLAuUHI?si=kKmufn_-clYyaE2N"
+    },
+    {
+      "appid": 1130620,
+      "name": "Aka Manto | 赤マント",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Aka Manto | 赤マント",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1130620/header.jpg?t=1662351638",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2019年9月23日",
+      "release_ts": 1569196800
     },
     {
       "appid": 945360,
@@ -228,6 +243,21 @@
       "release_date": "2025年9月26日",
       "release_ts": 1758844800,
       "stream_url": "https://www.youtube.com/live/Xd4sSHwwRs0?si=yvqP1qyC4J8s6jif"
+    },
+    {
+      "appid": 3334550,
+      "name": "Cursed Digicam | 呪われたデジカメ",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Cursed Digicam | 呪われたデジカメ",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334550/header_japanese.jpg?t=1736470827",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2025年1月9日",
+      "release_ts": 1736380800
     },
     {
       "appid": 4015010,
@@ -426,6 +456,21 @@
       "release_ts": 1745971200
     },
     {
+      "appid": 1400290,
+      "name": "Hanako | 花子さん",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Hanako | 花子さん",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1400290/header.jpg?t=1662351812",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2020年12月11日",
+      "release_ts": 1607644800
+    },
+    {
       "appid": 4018740,
       "name": "Hariti",
       "playtime_forever": 0,
@@ -502,6 +547,21 @@
       "stream_url": "https://www.youtube.com/live/FvWSq6Io-XY?si=iTdiBthAakN30Xje"
     },
     {
+      "appid": 1185160,
+      "name": "Inunaki Tunnel | 犬鳴トンネル",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Inunaki Tunnel | 犬鳴トンネル",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1185160/header.jpg?t=1662351834",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2019年11月19日",
+      "release_ts": 1574121600
+    },
+    {
       "appid": 3809110,
       "name": "Japan Stigmatized Property -日本事故物件監視協会-",
       "playtime_forever": 164,
@@ -531,6 +591,21 @@
       "publisher": "日本事故物件監視協会",
       "release_date": "2026年8月6日",
       "release_ts": 1785974400
+    },
+    {
+      "appid": 2716110,
+      "name": "Jisatsu | 自撮",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Jisatsu | 自撮",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2716110/header.jpg?t=1708152942",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2023年12月15日",
+      "release_ts": 1702598400
     },
     {
       "appid": 1742930,
@@ -609,6 +684,21 @@
       "release_ts": 1483574400
     },
     {
+      "appid": 1306620,
+      "name": "Missing Children | 行方不明",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Missing Children | 行方不明",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306620/header.jpg?t=1657960435",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2020年6月12日",
+      "release_ts": 1591920000
+    },
+    {
       "appid": 3065170,
       "name": "Monster Hunter Wilds Beta test",
       "playtime_forever": 0,
@@ -669,6 +759,36 @@
       "release_ts": 1718755200
     },
     {
+      "appid": 1611490,
+      "name": "Night Delivery | 例外配達",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Night Delivery | 例外配達",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1611490/header.jpg?t=1662351673",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2021年6月4日",
+      "release_ts": 1622764800
+    },
+    {
+      "appid": 2367230,
+      "name": "Night Security | 夜間警備",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Night Security | 夜間警備",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2367230/header.jpg?t=1687580673",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2023年6月16日",
+      "release_ts": 1686873600
+    },
+    {
       "appid": 3979330,
       "name": "nophenia",
       "playtime_forever": 0,
@@ -682,6 +802,21 @@
       "publisher": "lane",
       "release_date": "2026年6月26日",
       "release_ts": 1782432000
+    },
+    {
+      "appid": 1147960,
+      "name": "Okaeri",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Okaeri | おかえり",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147960/header.jpg?t=1662351711",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2019年9月6日",
+      "release_ts": 1567728000
     },
     {
       "appid": 3232860,
@@ -744,6 +879,21 @@
       "release_ts": 1689724800
     },
     {
+      "appid": 1267310,
+      "name": "Onryo | 怨霊",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Onryo | 怨霊",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267310/header.jpg?t=1662352138",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2020年4月24日",
+      "release_ts": 1587686400
+    },
+    {
       "appid": 919370,
       "name": "Overdungeon",
       "playtime_forever": 0,
@@ -757,6 +907,21 @@
       "publisher": "Pocketpair",
       "release_date": "2019年8月22日",
       "release_ts": 1566432000
+    },
+    {
+      "appid": 2314720,
+      "name": "Parasocial | パラソーシャル",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Parasocial | パラソーシャル",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2314720/header.jpg?t=1696963440",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2023年8月25日",
+      "release_ts": 1692921600
     },
     {
       "appid": 739630,
@@ -930,6 +1095,21 @@
       "release_ts": 1784678400
     },
     {
+      "appid": 2793370,
+      "name": "Shinkansen 0 | 新幹線 0号",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Shinkansen 0 | 新幹線 0号",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793370/header_japanese.jpg?t=1712378962",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2024年3月22日",
+      "release_ts": 1711065600
+    },
+    {
       "appid": 4227950,
       "name": "Shoyu Ramen Forever",
       "playtime_forever": 0,
@@ -988,6 +1168,21 @@
       "publisher": "Sunpeak Games",
       "release_date": "2024年3月1日",
       "release_ts": 1709251200
+    },
+    {
+      "appid": 1162680,
+      "name": "Stigmatized Property | 事故物件",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] Stigmatized Property | 事故物件",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162680/61ca5478f8c016e013357e6445198bf9305da3d1/header.jpg?t=1760423568",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2019年10月25日",
+      "release_ts": 1571961600
     },
     {
       "appid": 897220,
@@ -1051,6 +1246,66 @@
       "stream_url": "https://www.youtube.com/live/_KP3ZJVQXNw?si=yMYwbvT-U5INUUiM"
     },
     {
+      "appid": 2989950,
+      "name": "The Bathhouse | 地獄銭湯 Restored Ver.",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Bathhouse | 地獄銭湯 Restored Edition",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2989950/header.jpg?t=1725097542",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2024年8月9日",
+      "release_ts": 1723161600
+    },
+    {
+      "appid": 1503670,
+      "name": "The Caregiver | 終焉介護",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] The Caregiver | 終焉介護",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1503670/header.jpg?t=1662352069",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2021年4月2日",
+      "release_ts": 1617321600
+    },
+    {
+      "appid": 1843090,
+      "name": "The Closing Shift | 閉店事件",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] The Closing Shift | 閉店事件",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1843090/header.jpg?t=1667383861",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2022年3月18日",
+      "release_ts": 1647561600
+    },
+    {
+      "appid": 1228520,
+      "name": "The Convenience Store | 夜勤事件",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] The Convenience Store | 夜勤事件",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1228520/header.jpg?t=1662351577",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2020年2月17日",
+      "release_ts": 1581897600
+    },
+    {
       "appid": 2653790,
       "name": "The Exit 8",
       "playtime_forever": 178,
@@ -1080,6 +1335,81 @@
       "publisher": "cream",
       "release_date": "2024年4月11日",
       "release_ts": 1712793600
+    },
+    {
+      "appid": 1349960,
+      "name": "The Ghost Train | 幽霊列車",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] The Ghost Train | 幽霊列車",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1349960/header.jpg?t=1662352030",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2020年7月23日",
+      "release_ts": 1595462400
+    },
+    {
+      "appid": 2200190,
+      "name": "The Karaoke | ヒトカラ",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] The Karaoke | ヒトカラ🎤",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200190/header.jpg?t=1676274987",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2023年2月3日",
+      "release_ts": 1675382400
+    },
+    {
+      "appid": 2593900,
+      "name": "The Kidnap | 誘拐事件",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] The Kidnap | 誘拐事件",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593900/header.jpg?t=1698800412",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2023年10月31日",
+      "release_ts": 1698710400
+    },
+    {
+      "appid": 1671550,
+      "name": "The Night Way Home | 帰り道",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] The Night Way Home | 帰り道",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671550/header.jpg?t=1662351785",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2021年8月6日",
+      "release_ts": 1628208000
+    },
+    {
+      "appid": 1744910,
+      "name": "The Radio Station | 深夜放送",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "[Chilla's Art] The Radio Station | 深夜放送",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1744910/header.jpg?t=1662351980",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2021年10月30日",
+      "release_ts": 1635552000
     },
     {
       "appid": 885810,
@@ -1142,6 +1472,21 @@
       "release_date": "2021年8月12日",
       "release_ts": 1628726400,
       "stream_url": "https://www.youtube.com/live/EV8TqFR2MKs?si=y2ZgrrKPYzaIyLNo"
+    },
+    {
+      "appid": 3772960,
+      "name": "UMIGARI | ウミガリ",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "UMIGARI | ウミガリ",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3772960/c9cef3bb75dc5833214eb4361461712e1bff747a/header.jpg?t=1770375007",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "release_date": "2026年2月4日",
+      "release_ts": 1770163200
     },
     {
       "appid": 391540,
