@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14T18:53:50.571Z",
+  "fetched_at": "2026-08-15T18:29:19.446Z",
   "games": [
     {
       "appid": 3659180,
@@ -1367,8 +1367,8 @@
     {
       "appid": 4227950,
       "name": "Shoyu Ramen Forever",
-      "playtime_forever": 0,
-      "rtime_last_played": 0,
+      "playtime_forever": 218,
+      "rtime_last_played": 1786757950,
       "visible": true,
       "played": false,
       "show_playtime": true,
@@ -1866,8 +1866,8 @@
     {
       "appid": 1325860,
       "name": "VTube Studio",
-      "playtime_forever": 18646,
-      "rtime_last_played": 1786411415,
+      "playtime_forever": 18851,
+      "rtime_last_played": 1786757498,
       "visible": false,
       "played": true,
       "show_playtime": true,
