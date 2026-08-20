@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T18:35:03.717Z",
+  "fetched_at": "2026-08-20T07:24:35.428Z",
   "games": [
     {
       "appid": 3659180,
@@ -1470,6 +1470,21 @@
       "release_ts": 1750982400
     },
     {
+      "appid": 4458840,
+      "name": "T.W.I.R.L.",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "T.W.I.R.L.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458840/06dc80b569d8aa9bdc2b51181be43607cf64296f/header.jpg?t=1787181915",
+      "developer": "Genie Boy Games",
+      "publisher": "Genie Boy Games",
+      "release_date": "2026年8月19日",
+      "release_ts": 1787097600
+    },
+    {
       "appid": 4181410,
       "name": "The Alley",
       "playtime_forever": 0,
@@ -1650,6 +1665,21 @@
       "publisher": "Chilla's Art",
       "release_date": "2021年8月6日",
       "release_ts": 1628208000
+    },
+    {
+      "appid": 4415740,
+      "name": "The Pale Mimic",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Pale Mimic",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4415740/94ee8d6872fd1fe69231c1c41c023395614d66c9/header.jpg?t=1786977417",
+      "developer": "Dark Snow Games",
+      "publisher": "Dark Snow Games",
+      "release_date": "2026年8月17日",
+      "release_ts": 1786924800
     },
     {
       "appid": 1744910,
