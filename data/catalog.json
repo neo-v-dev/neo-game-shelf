@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T18:38:26.411Z",
+  "fetched_at": "2026-08-21T18:35:56.174Z",
   "games": [
     {
       "appid": 3659180,
@@ -848,6 +848,21 @@
       "release_ts": 1616716800
     },
     {
+      "appid": 4919310,
+      "name": "MEKAKUSHI-SAN",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "目隠しさん",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919310/678021700fefd0f6e41bc4aa0d07db8bc2bf4449/header_japanese.jpg?t=1786021516",
+      "developer": "nobisiko games",
+      "publisher": "nobisiko games",
+      "release_date": "2026年8月6日",
+      "release_ts": 1785974400
+    },
+    {
       "appid": 3575730,
       "name": "MERRY BUNNY GARDEN",
       "playtime_forever": 481,
@@ -1590,6 +1605,21 @@
       "release_date": "2023年11月29日",
       "release_ts": 1701216000,
       "stream_url": "https://www.youtube.com/live/yo-RIH8rs54?si=GMAIJsBc8gaXz40A"
+    },
+    {
+      "appid": 4998500,
+      "name": "The Falling Hospital",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "落命病棟 The Falling Hospital",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998500/969b119958dac1ec1dbdf9ed1f29bc6332d5815e/header_japanese.jpg?t=1787265556",
+      "developer": "PapillonStudio",
+      "publisher": "PapillonStudio",
+      "release_date": "2026年8月20日",
+      "release_ts": 1787184000
     },
     {
       "appid": 2904890,
