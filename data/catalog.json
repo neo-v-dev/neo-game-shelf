@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T18:35:56.174Z",
+  "fetched_at": "2026-08-22T18:30:08.956Z",
   "games": [
     {
       "appid": 3659180,
@@ -453,6 +453,21 @@
       "publisher": "Bennett Foddy",
       "release_date": "2017年12月6日",
       "release_ts": 1512518400
+    },
+    {
+      "appid": 4354710,
+      "name": "Ghost Buster:Village",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Ghost Buster:Village",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354710/4b8c3687d23a72c752ab047d18593266f80d80a1/header.jpg?t=1787203671",
+      "developer": "ZV GAMES",
+      "publisher": "ZV GAMES",
+      "release_date": "2026年8月19日",
+      "release_ts": 1787097600
     },
     {
       "appid": 2820200,
@@ -1242,6 +1257,21 @@
       "stream_url": "https://www.youtube.com/live/RT6HFGVKnIw?si=Q_eHDskVXaiTM98-"
     },
     {
+      "appid": 1562700,
+      "name": "SANABI",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "SANABI",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/header.jpg?t=1764564242",
+      "developer": "WONDER POTION",
+      "publisher": "NEOWIZ",
+      "release_date": "2023年11月8日",
+      "release_ts": 1699401600
+    },
+    {
       "appid": 4884440,
       "name": "Scary Stories: Grotesque",
       "playtime_forever": 0,
@@ -1744,8 +1774,8 @@
     {
       "appid": 885810,
       "name": "The Witch's House MV",
-      "playtime_forever": 0,
-      "rtime_last_played": 0,
+      "playtime_forever": 186,
+      "rtime_last_played": 1787362097,
       "visible": true,
       "played": false,
       "show_playtime": true,
@@ -1926,8 +1956,8 @@
     {
       "appid": 1325860,
       "name": "VTube Studio",
-      "playtime_forever": 18851,
-      "rtime_last_played": 1786757498,
+      "playtime_forever": 19030,
+      "rtime_last_played": 1787363319,
       "visible": false,
       "played": true,
       "show_playtime": true,
