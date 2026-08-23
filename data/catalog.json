@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T18:30:08.956Z",
+  "fetched_at": "2026-08-23T18:28:43.890Z",
   "games": [
     {
       "appid": 3659180,
@@ -1800,6 +1800,21 @@
       "publisher": "Oro Interactive",
       "release_date": "2025年12月11日",
       "release_ts": 1765411200
+    },
+    {
+      "appid": 1490020,
+      "name": "TIC-TAC: Twelve o'clock",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "TIC-TAC: Twelve o'clock",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1490020/f90924408c442709df0ad9215e875fba3949336e/header_alt_assets_0.jpg?t=1787145585",
+      "developer": "ARMAG",
+      "publisher": "Two Cakes Studio",
+      "release_date": "2026年8月19日",
+      "release_ts": 1787097600
     },
     {
       "appid": 2634950,
