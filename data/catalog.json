@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T18:39:22.679Z",
+  "fetched_at": "2026-08-25T18:38:49.479Z",
   "games": [
     {
       "appid": 3659180,
@@ -1924,6 +1924,21 @@
       "release_ts": 1744848000
     },
     {
+      "appid": 4830660,
+      "name": "Tsugunohi -The Thread That Beckons to Heaven-",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "つぐのひ -天招ねく救いの糸-",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830660/6ad0b2ec37936b85236f1298a60bf545fa9d4758/header_japanese.jpg?t=1787636773",
+      "developer": "Vaka Game Magazine",
+      "publisher": "Vaka Game Magazine",
+      "release_date": "2026年8月24日",
+      "release_ts": 1787529600
+    },
+    {
       "appid": 3772960,
       "name": "UMIGARI | ウミガリ",
       "playtime_forever": 0,
@@ -2088,6 +2103,21 @@
       "publisher": "Purihana",
       "release_date": "2026年7月27日",
       "release_ts": 1785110400
+    },
+    {
+      "appid": 4937120,
+      "name": "スマートフォン",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "スマートフォン",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4937120/15ca58887242415838540a0736fd532f5d0cf365/header_japanese.jpg?t=1787540141",
+      "developer": "OwataStudio",
+      "publisher": "OwataStudio",
+      "release_date": "2026年8月23日",
+      "release_ts": 1787443200
     },
     {
       "appid": 4485940,
