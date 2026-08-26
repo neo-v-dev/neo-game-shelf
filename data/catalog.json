@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T18:38:49.479Z",
+  "fetched_at": "2026-08-26T19:46:47.844Z",
   "games": [
     {
       "appid": 3659180,
@@ -770,6 +770,21 @@
       "publisher": "Chilla's Art",
       "release_date": "2019年11月19日",
       "release_ts": 1574121600
+    },
+    {
+      "appid": 4001350,
+      "name": "Iron Blight",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Iron Blight",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001350/273471f95817305b7166df52492adfc0c566738c/header_japanese.jpg?t=1787587259",
+      "developer": "Ronesans Interactive",
+      "publisher": "Rock Paper Publisher",
+      "release_date": "2026年8月24日",
+      "release_ts": 1787529600
     },
     {
       "appid": 3809110,
