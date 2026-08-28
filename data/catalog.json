@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T19:46:47.844Z",
+  "fetched_at": "2026-08-28T02:03:09.390Z",
   "games": [
     {
       "appid": 3659180,
@@ -483,6 +483,21 @@
       "publisher": "YajinGameProject",
       "release_date": "2024年4月11日",
       "release_ts": 1712793600
+    },
+    {
+      "appid": 4631500,
+      "name": "GHOSTFLIPPERS",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "GHOSTFLIPPERS",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631500/30cd72aa1dc943610dc3904fee0995a401ce0d2e/header.jpg?t=1787755846",
+      "developer": "TheDevLeo",
+      "publisher": "HuninGames",
+      "release_date": "2026年8月26日",
+      "release_ts": 1787702400
     },
     {
       "appid": 3344150,
@@ -1604,6 +1619,21 @@
       "publisher": "Chilla's Art",
       "release_date": "2021年4月2日",
       "release_ts": 1617321600
+    },
+    {
+      "appid": 3004390,
+      "name": "The Cave Diver",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Cave Diver",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004390/7e0e803320878ed401fe7e7f35ac52a466a66d29/header.jpg?t=1786552247",
+      "developer": "Ovsko",
+      "publisher": "Ovsko",
+      "release_date": "2026年8月12日",
+      "release_ts": 1786492800
     },
     {
       "appid": 1843090,
