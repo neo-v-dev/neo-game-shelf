@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T01:29:06.523Z",
+  "fetched_at": "2026-08-29T20:29:29.385Z",
   "games": [
     {
       "appid": 3659180,
@@ -606,6 +606,36 @@
       "release_ts": 1465171200
     },
     {
+      "appid": 5044610,
+      "name": "Hell apartment",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "地獄アパート",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044610/41ffa48d75f31d434585ee1c5b67f29c8c6665a1/header_japanese.jpg?t=1787905858",
+      "developer": "Maju's Studio",
+      "publisher": "Maju's Studio",
+      "release_date": "2026年8月28日",
+      "release_ts": 1787875200
+    },
+    {
+      "appid": 2414630,
+      "name": "Hollow Cocoon",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ウツロマユ - Hollow Cocoon -",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2414630/header_japanese.jpg?t=1730875830",
+      "developer": "NAYUTA STUDIO",
+      "publisher": "NAYUTA STUDIO",
+      "release_date": "2023年12月6日",
+      "release_ts": 1701820800
+    },
+    {
       "appid": 2420510,
       "name": "HoloCure - Save the Fans!",
       "playtime_forever": 183,
@@ -846,6 +876,21 @@
       "publisher": "Chilla's Art",
       "release_date": "2023年12月15日",
       "release_ts": 1702598400
+    },
+    {
+      "appid": 2137620,
+      "name": "Korean BBQ Simulator",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "韓国 焼肉 シミュレーター",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2137620/header_japanese.jpg?t=1689783422",
+      "developer": "PSI Game Studio",
+      "publisher": "PSI Game Studio",
+      "release_date": "2022年10月13日",
+      "release_ts": 1665619200
     },
     {
       "appid": 1742930,
@@ -1787,6 +1832,21 @@
       "release_ts": 1628208000
     },
     {
+      "appid": 4588930,
+      "name": "The Old Flesh of Nuraga",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Old Flesh of Nuraga",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588930/ae20eaaaab0fdc52045878011cb95906d6432597/header.jpg?t=1787912462",
+      "developer": "Studio Ortica",
+      "publisher": "Studio Ortica",
+      "release_date": "2026年8月27日",
+      "release_ts": 1787788800
+    },
+    {
       "appid": 4415740,
       "name": "The Pale Mimic",
       "playtime_forever": 0,
@@ -2059,6 +2119,36 @@
       "release_ts": 1615507200
     },
     {
+      "appid": 3249580,
+      "name": "Yakiniku Party Survival",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "焼肉パーティーサバイバル",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3249580/header.jpg?t=1729219938",
+      "developer": "KIMIDORI SOFT",
+      "publisher": "KIMIDORI SOFT",
+      "release_date": "2024年10月17日",
+      "release_ts": 1729123200
+    },
+    {
+      "appid": 2001570,
+      "name": "Yakiniku Simulator",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "焼肉シミュレーター",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001570/header.jpg?t=1743093266",
+      "developer": "SECRET CHARACTER",
+      "publisher": "SECRET CHARACTER",
+      "release_date": "2022年6月3日",
+      "release_ts": 1654214400
+    },
+    {
       "appid": 625980,
       "name": "Yomawari: Midnight Shadows",
       "playtime_forever": 0,
@@ -2299,6 +2389,21 @@
       "release_date": "2026年4月29日",
       "release_ts": 1777420800,
       "stream_url": "https://www.youtube.com/live/lJhbNzXgdp8?si=WdNVOiXl17VK9V4W"
+    },
+    {
+      "appid": 2871820,
+      "name": "祟り坂 Curse road",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "祟り坂 | TATARI Curse road",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871820/026a058fc97bb3ba39996826fb1b35f55cd337a8/header_japanese.jpg?t=1766029701",
+      "developer": "STUDIO DYD",
+      "publisher": "STUDIO DYD",
+      "release_date": "2025年11月15日",
+      "release_ts": 1763164800
     }
   ]
 }
