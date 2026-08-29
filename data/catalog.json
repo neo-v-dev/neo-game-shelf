@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T02:03:09.390Z",
+  "fetched_at": "2026-08-29T01:29:06.523Z",
   "games": [
     {
       "appid": 3659180,
@@ -1560,6 +1560,21 @@
       "release_ts": 1787097600
     },
     {
+      "appid": 4595220,
+      "name": "TARO IS BACK",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "たろうくんはいってきました",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595220/c9ce9c601867a32f2448b31358ae0f7b4839aa30/header_japanese.jpg?t=1787887833",
+      "developer": "BeforeHomeWorks",
+      "publisher": "株式会社闇",
+      "release_date": "2026年8月27日",
+      "release_ts": 1787788800
+    },
+    {
       "appid": 4181410,
       "name": "The Alley",
       "playtime_forever": 0,
@@ -2031,8 +2046,8 @@
     {
       "appid": 1325860,
       "name": "VTube Studio",
-      "playtime_forever": 19030,
-      "rtime_last_played": 1787363319,
+      "playtime_forever": 19227,
+      "rtime_last_played": 1787965512,
       "visible": false,
       "played": true,
       "show_playtime": true,
