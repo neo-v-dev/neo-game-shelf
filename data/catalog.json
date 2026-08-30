@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T20:29:29.385Z",
+  "fetched_at": "2026-08-30T20:38:50.826Z",
   "games": [
     {
       "appid": 3659180,
@@ -893,6 +893,21 @@
       "release_ts": 1665619200
     },
     {
+      "appid": 4298500,
+      "name": "Last Breath",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Last Breath 最后的气息",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298500/400750a86a4d4ee9b5dbea3c6df006ce3bd1f127/header.jpg?t=1787892673",
+      "developer": "HP⁺ DOG",
+      "publisher": "HP⁺ DOG",
+      "release_date": "2026年8月27日",
+      "release_ts": 1787788800
+    },
+    {
       "appid": 1742930,
       "name": "Looking Up I See Only A Ceiling",
       "playtime_forever": 18,
@@ -997,6 +1012,21 @@
       "publisher": "Chilla's Art",
       "release_date": "2020年6月12日",
       "release_ts": 1591920000
+    },
+    {
+      "appid": 3077570,
+      "name": "MOMO Crash",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ももっとクラッシュ",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3077570/98cdfeac6d2295420ca272ddd88e2660b82471d2/header_japanese.jpg?t=1773968543",
+      "developer": "SKOOTA GAMES",
+      "publisher": "SCOOTER FILMS INC.",
+      "release_date": "2025年9月18日",
+      "release_ts": 1758153600
     },
     {
       "appid": 3065170,
