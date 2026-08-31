@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T20:38:50.826Z",
+  "fetched_at": "2026-08-31T22:33:16.776Z",
   "games": [
     {
       "appid": 3659180,
@@ -303,6 +303,21 @@
       "publisher": "riinwin",
       "release_date": "2026年7月15日",
       "release_ts": 1784073600
+    },
+    {
+      "appid": 3160640,
+      "name": "Don't Drop The Cake",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Don't Drop The Cake",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3160640/80ce7593f681f2160de60edfb3bdac1275d9d7ef/header.jpg?t=1788127773",
+      "developer": "Midoriyama",
+      "publisher": "Midoriyama",
+      "release_date": "2026年8月30日",
+      "release_ts": 1788048000
     },
     {
       "appid": 3930510,
