@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T20:35:26.605Z",
+  "fetched_at": "2026-09-03T20:34:39.796Z",
   "games": [
     {
       "appid": 3659180,
@@ -45,6 +45,21 @@
       "publisher": "The Fun Pimps Entertainment LLC",
       "release_date": "2024年7月25日",
       "release_ts": 1721865600
+    },
+    {
+      "appid": 2366080,
+      "name": "911: Cannibal",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "911: 共食い",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366080/64aa9a2c80fb47624d2b707ded8868c0d682ea68/header.jpg?t=1755613724",
+      "developer": "Euphoria Games",
+      "publisher": "Euphoria Games",
+      "release_date": "2023年4月14日",
+      "release_ts": 1681430400
     },
     {
       "appid": 1720850,
@@ -348,6 +363,21 @@
       "publisher": "Black Lantern Collective",
       "release_date": "2026年6月12日",
       "release_ts": 1781222400
+    },
+    {
+      "appid": 2497900,
+      "name": "DON'T SCREAM",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "DON'T SCREAM",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497900/a7ce95275b7c88844334150fa7aa0d026023d4df/header.jpg?t=1764784705",
+      "developer": "Digital Cybercherries",
+      "publisher": "Digital Cybercherries",
+      "release_date": "2024年10月28日",
+      "release_ts": 1730073600
     },
     {
       "appid": 3114900,
@@ -1267,6 +1297,36 @@
       "publisher": "Chilla's Art",
       "release_date": "2020年4月24日",
       "release_ts": 1587686400
+    },
+    {
+      "appid": 238320,
+      "name": "Outlast",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Outlast",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106",
+      "developer": "Red Barrels",
+      "publisher": "Red Barrels",
+      "release_date": "2013年9月4日",
+      "release_ts": 1378252800
+    },
+    {
+      "appid": 414700,
+      "name": "Outlast 2",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Outlast 2",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414700/header.jpg?t=1618944453",
+      "developer": "Red Barrels",
+      "publisher": "Red Barrels",
+      "release_date": "2017年4月24日",
+      "release_ts": 1492992000
     },
     {
       "appid": 919370,
@@ -2330,6 +2390,21 @@
       "release_ts": 1654128000
     },
     {
+      "appid": 3491160,
+      "name": "イワクツギ -IWAKUTSUGI-",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "イワクツギ -IWAKUTSUGI-",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491160/header.jpg?t=1753175167",
+      "developer": "TEAM SHINZA",
+      "publisher": "TEAM SHINZA",
+      "release_date": "2025年7月17日",
+      "release_ts": 1752710400
+    },
+    {
       "appid": 4930640,
       "name": "おかあさん",
       "playtime_forever": 0,
@@ -2494,6 +2569,21 @@
       "publisher": "STUDIO DYD",
       "release_date": "2025年11月15日",
       "release_ts": 1763164800
+    },
+    {
+      "appid": 5069370,
+      "name": "隔離病院",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "隔離病院",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069370/7f51bcc916172970d93d1848b66f01bfef100452/header.jpg?t=1788426756",
+      "developer": "ASINOURA",
+      "publisher": "ASINOURA",
+      "release_date": "2026年8月31日",
+      "release_ts": 1788134400
     }
   ]
 }
