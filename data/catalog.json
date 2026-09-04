@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T20:34:39.796Z",
+  "fetched_at": "2026-09-04T20:21:27.447Z",
   "games": [
     {
       "appid": 3659180,
@@ -244,6 +244,21 @@
       "release_ts": 1637280000
     },
     {
+      "appid": 1766740,
+      "name": "Choo-Choo Charles",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Choo-Choo Charles",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766740/header.jpg?t=1776483802",
+      "developer": "Two Star Games",
+      "publisher": "Two Star Games",
+      "release_date": "2022年12月9日",
+      "release_ts": 1670544000
+    },
+    {
       "appid": 255710,
       "name": "Cities: Skylines",
       "playtime_forever": 0,
@@ -273,6 +288,21 @@
       "release_date": "2025年9月26日",
       "release_ts": 1758844800,
       "stream_url": "https://www.youtube.com/live/Xd4sSHwwRs0?si=yvqP1qyC4J8s6jif"
+    },
+    {
+      "appid": 870780,
+      "name": "Control Ultimate Edition",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Control Ultimate Edition",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870780/ec621653454cdad232187af4eb79f23c05aceca5/header.jpg?t=1781607969",
+      "developer": "Remedy Entertainment",
+      "publisher": "Remedy Entertainment",
+      "release_date": "2020年8月27日",
+      "release_ts": 1598486400
     },
     {
       "appid": 3334550,
@@ -365,6 +395,21 @@
       "release_ts": 1781222400
     },
     {
+      "appid": 3319120,
+      "name": "Don't Play This",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Don't Play This",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319120/07d1ccb485d61cb593b42e8932fecf03e18f4a9c/header.jpg?t=1776353186",
+      "developer": "Admia",
+      "publisher": "Notex",
+      "release_date": "2026年4月14日",
+      "release_ts": 1776124800
+    },
+    {
       "appid": 2497900,
       "name": "DON'T SCREAM",
       "playtime_forever": 0,
@@ -423,6 +468,21 @@
       "publisher": "Stray Fawn Publishing",
       "release_date": "2026年4月30日",
       "release_ts": 1777507200
+    },
+    {
+      "appid": 4790520,
+      "name": "ELEVATOR: AVICI",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ELEVATOR: AVICI",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790520/be83d17a3d2e0daaa3ab4abe1db778d827d5462f/header.jpg?t=1783616694",
+      "developer": "Southern Cross",
+      "publisher": "Southern Cross",
+      "release_date": "2026年7月9日",
+      "release_ts": 1783555200
     },
     {
       "appid": 1748610,
@@ -998,6 +1058,21 @@
       "release_ts": 1675641600
     },
     {
+      "appid": 483980,
+      "name": "Mad Father",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Mad Father (マッドファーザー)",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/483980/header.jpg?t=1779842400",
+      "developer": "sen",
+      "publisher": "PLAYISM",
+      "release_date": "2016年9月22日",
+      "release_ts": 1474502400
+    },
+    {
       "appid": 1519900,
       "name": "MASAGORO",
       "playtime_forever": 0,
@@ -1179,6 +1254,21 @@
       "release_ts": 1686873600
     },
     {
+      "appid": 3894440,
+      "name": "NO BACKUP",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "NO BACKUP (バックアップなし)",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894440/6de96d936887a99c647dc5fbfc5a66852dc9c86f/header.jpg?t=1780443332",
+      "developer": "Serundeox",
+      "publisher": "Serundeox",
+      "release_date": "2026年5月9日",
+      "release_ts": 1778284800
+    },
+    {
       "appid": 3979330,
       "name": "nophenia",
       "playtime_forever": 0,
@@ -1299,6 +1389,21 @@
       "release_ts": 1587686400
     },
     {
+      "appid": 2259310,
+      "name": "ORDER 13",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ORDER 13",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259310/2928f00102df365a1c028149f6d6bf123465eebd/header.jpg?t=1749494748",
+      "developer": "Cybernetic Walrus",
+      "publisher": "Oro Interactive",
+      "release_date": "2025年3月10日",
+      "release_ts": 1741564800
+    },
+    {
       "appid": 238320,
       "name": "Outlast",
       "playtime_forever": 0,
@@ -1327,6 +1432,21 @@
       "publisher": "Red Barrels",
       "release_date": "2017年4月24日",
       "release_ts": 1492992000
+    },
+    {
+      "appid": 2680680,
+      "name": "outside the door",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "outside the door",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680680/0df0b33b1f3a961b3070543b3fc6485fa545a666/header.jpg?t=1784013553",
+      "developer": "basandaika games",
+      "publisher": "basandaika games",
+      "release_date": "2024年4月9日",
+      "release_ts": 1712620800
     },
     {
       "appid": 919370,
@@ -1450,6 +1570,21 @@
       "release_date": "2025年7月10日",
       "release_ts": 1752105600,
       "stream_url": "https://www.youtube.com/live/RT6HFGVKnIw?si=Q_eHDskVXaiTM98-"
+    },
+    {
+      "appid": 541570,
+      "name": "Sally Face - Episode One",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Sally Face - Episode One",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541570/header.jpg?t=1787576437",
+      "developer": "Portable Moose",
+      "publisher": "Portable Moose",
+      "release_date": "2016年12月14日",
+      "release_ts": 1481673600
     },
     {
       "appid": 1562700,
@@ -1723,6 +1858,21 @@
       "publisher": "VISUAL ARTS",
       "release_date": "2025年6月27日",
       "release_ts": 1750982400
+    },
+    {
+      "appid": 2793240,
+      "name": "Surveillance Work -Taboo-",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "監視業務 -禁忌-",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793240/4d354d2aa74bcc89d896f5d597a9217246e3be63/header_japanese.jpg?t=1755446639",
+      "developer": "Maki Toguro",
+      "publisher": "Maki Toguro",
+      "release_date": "2024年2月2日",
+      "release_ts": 1706832000
     },
     {
       "appid": 4458840,
@@ -2239,6 +2389,21 @@
       "release_ts": 1442275200
     },
     {
+      "appid": 4487460,
+      "name": "Unseasonable Flowering",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "狂い咲き",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487460/1b11d9c478799ad3c4bb1d9ce2d601b574f0210a/header_japanese.jpg?t=1788447630",
+      "developer": "KomeFukuro",
+      "publisher": "KomeFukuro",
+      "release_date": "2026年9月3日",
+      "release_ts": 1788393600
+    },
+    {
       "appid": 438100,
       "name": "VRChat",
       "playtime_forever": 146,
@@ -2257,7 +2422,7 @@
       "appid": 1325860,
       "name": "VTube Studio",
       "playtime_forever": 19227,
-      "rtime_last_played": 1787965512,
+      "rtime_last_played": 1788531429,
       "visible": false,
       "played": true,
       "show_playtime": true,
@@ -2463,6 +2628,21 @@
       "publisher": "もこもこ",
       "release_date": "2026年8月11日",
       "release_ts": 1786406400
+    },
+    {
+      "appid": 3080920,
+      "name": "孵道",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "孵道",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3080920/header_japanese.jpg?t=1728000022",
+      "developer": "法螺会",
+      "publisher": "法螺会",
+      "release_date": "2024年8月14日",
+      "release_ts": 1723593600
     },
     {
       "appid": 3855970,
