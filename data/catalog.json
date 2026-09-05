@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T00:11:11.422Z",
+  "fetched_at": "2026-09-05T00:54:02.779Z",
   "games": [
     {
       "appid": 3659180,
@@ -242,6 +242,21 @@
       "release_date": "2024年2月20日",
       "release_ts": 1708387200,
       "stream_url": "https://www.youtube.com/live/e3ifvBvvkbs?si=8OGcOOTOKacxE5c5"
+    },
+    {
+      "appid": 4892800,
+      "name": "BALL BOY Simulator",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "球ひろいSimulator",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892800/0e3cbb25f3477ba0181c2a202cb5411b89da563b/header_japanese.jpg?t=1788152579",
+      "developer": "EBA GAME",
+      "publisher": "EBA GAME",
+      "release_date": "2026年8月30日",
+      "release_ts": 1788048000
     },
     {
       "appid": 1517290,
@@ -528,6 +543,21 @@
       "publisher": "Vaka Game Magazine",
       "release_date": "2021年11月7日",
       "release_ts": 1636243200
+    },
+    {
+      "appid": 2753720,
+      "name": "False Dream",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "偽夢",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753720/header_japanese.jpg?t=1727098297",
+      "developer": "TenkaiGames",
+      "publisher": "TenkaiGames",
+      "release_date": "2024年1月16日",
+      "release_ts": 1705363200
     },
     {
       "appid": 383870,
@@ -1058,6 +1088,21 @@
       "release_ts": 1787788800
     },
     {
+      "appid": 4244930,
+      "name": "Log.in",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Log.in",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244930/a0e1ad1eb30045a7aa5618befc1562f783a01ca3/header.jpg?t=1768366270",
+      "developer": "Little氷華",
+      "publisher": "Little氷華",
+      "release_date": "2026年1月9日",
+      "release_ts": 1767916800
+    },
+    {
       "appid": 1742930,
       "name": "Looking Up I See Only A Ceiling",
       "playtime_forever": 18,
@@ -1492,6 +1537,21 @@
       "publisher": "Pocketpair",
       "release_date": "2019年8月22日",
       "release_ts": 1566432000
+    },
+    {
+      "appid": 3017580,
+      "name": "Paragnosia",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Paragnosia",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017580/header.jpg?t=1786040305",
+      "developer": "Sine Coda",
+      "publisher": "Sine Coda",
+      "release_date": "2024年10月24日",
+      "release_ts": 1729728000
     },
     {
       "appid": 2314720,
@@ -2481,8 +2541,8 @@
     {
       "appid": 1325860,
       "name": "VTube Studio",
-      "playtime_forever": 19287,
-      "rtime_last_played": 1788566239,
+      "playtime_forever": 19317,
+      "rtime_last_played": 1788568039,
       "visible": false,
       "played": true,
       "show_playtime": true,
@@ -2492,6 +2552,21 @@
       "publisher": "DenchiSoft",
       "release_date": "2021年3月12日",
       "release_ts": 1615507200
+    },
+    {
+      "appid": 3604030,
+      "name": "Wolf Mate",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ウルフメイト",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604030/31ebc19a2f6053d29c612caab1eca6ed84e93f2e/header_japanese.jpg?t=1787732949",
+      "developer": "eTIRUe",
+      "publisher": "eTIRUe",
+      "release_date": "2025年8月18日",
+      "release_ts": 1755475200
     },
     {
       "appid": 3249580,
@@ -2718,6 +2793,21 @@
       "publisher": "ArezigokuGames",
       "release_date": "2025年7月23日",
       "release_ts": 1753228800
+    },
+    {
+      "appid": 4154100,
+      "name": "怪異番号~20××~",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "怪異番号~20✕✕(ニーマルバツバツ)~",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154100/145c515115a6b554c9e350cab18f22cc9d92101d/header_japanese.jpg?t=1775744484",
+      "developer": "EBA GAME",
+      "publisher": "EBA GAME",
+      "release_date": "2026年3月31日",
+      "release_ts": 1774915200
     },
     {
       "appid": 4193270,
