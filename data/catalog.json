@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T20:21:27.447Z",
+  "fetched_at": "2026-09-05T00:11:11.422Z",
   "games": [
     {
       "appid": 3659180,
@@ -213,6 +213,21 @@
       "release_ts": 1692835200
     },
     {
+      "appid": 2141730,
+      "name": "Backrooms: Escape Together",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Backrooms: Escape Together",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141730/header.jpg?t=1780282746",
+      "developer": "Triiodide Studios",
+      "publisher": "Triiodide Studios",
+      "release_date": "2022年10月18日",
+      "release_ts": 1666051200
+    },
+    {
       "appid": 2379780,
       "name": "Balatro",
       "playtime_forever": 2398,
@@ -363,6 +378,21 @@
       "publisher": "riinwin",
       "release_date": "2026年7月15日",
       "release_ts": 1784073600
+    },
+    {
+      "appid": 3344750,
+      "name": "DEBUG DEADLINE",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "デバッグデッドライン | DEBUG DEADLINE",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344750/header.jpg?t=1759973276",
+      "developer": "OTL GAME",
+      "publisher": "OTL GAME",
+      "release_date": "2024年12月16日",
+      "release_ts": 1734307200
     },
     {
       "appid": 3160640,
@@ -1556,6 +1586,21 @@
       "stream_url": "https://www.youtube.com/live/kDZozAdLz4I?si=JRFlRu4pzggoayNC"
     },
     {
+      "appid": 3118910,
+      "name": "Reality Breach",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "現実侵食",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3118910/6dc41c9ea0b28beae8aa370a2448eb3033a605ab/header_japanese.jpg?t=1788469396",
+      "developer": "TheBossa Works",
+      "publisher": "TheBossa Works",
+      "release_date": "2026年9月3日",
+      "release_ts": 1788393600
+    },
+    {
       "appid": 3461950,
       "name": "Reioku - Ghost house -",
       "playtime_forever": 194,
@@ -2207,6 +2252,21 @@
       "release_ts": 1540857600
     },
     {
+      "appid": 644930,
+      "name": "They Are Billions",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "They Are Billions",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644930/header.jpg?t=1595631876",
+      "developer": "Numantian Games",
+      "publisher": "Numantian Games",
+      "release_date": "2019年6月18日",
+      "release_ts": 1560816000
+    },
+    {
       "appid": 4038320,
       "name": "This Ain’t Even Poker, Ya Joker",
       "playtime_forever": 721,
@@ -2421,8 +2481,8 @@
     {
       "appid": 1325860,
       "name": "VTube Studio",
-      "playtime_forever": 19227,
-      "rtime_last_played": 1788531429,
+      "playtime_forever": 19287,
+      "rtime_last_played": 1788566239,
       "visible": false,
       "played": true,
       "show_playtime": true,
