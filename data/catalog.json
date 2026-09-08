@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T21:10:40.758Z",
+  "fetched_at": "2026-09-08T20:47:06.555Z",
   "games": [
     {
       "appid": 3659180,
@@ -1644,6 +1644,21 @@
       "release_date": "2024年5月31日",
       "release_ts": 1717113600,
       "stream_url": "https://www.youtube.com/live/kDZozAdLz4I?si=JRFlRu4pzggoayNC"
+    },
+    {
+      "appid": 2383130,
+      "name": "Project: Mist",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Project: Mist",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2383130/f9401dd8d0df933a71c1017cc0f603887c8cd627/header.jpg?t=1786028286",
+      "developer": "Chicken Launcher",
+      "publisher": "Chicken Launcher",
+      "release_date": "2026年5月19日",
+      "release_ts": 1779148800
     },
     {
       "appid": 3118910,
