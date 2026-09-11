@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T20:28:47.618Z",
+  "fetched_at": "2026-09-11T20:32:49.629Z",
   "games": [
     {
       "appid": 3659180,
@@ -136,6 +136,21 @@
       "publisher": "Innersloth",
       "release_date": "2018年11月16日",
       "release_ts": 1542326400
+    },
+    {
+      "appid": 4951500,
+      "name": "ANOMALOGIST: Inumaki Manor",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "霊障観測シ",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4951500/9179019016a4f9b179c0bbe8f0176ec540dc8812/header_japanese.jpg?t=1789052866",
+      "developer": "CoMuCreator",
+      "publisher": "CoMuCreator",
+      "release_date": "2026年9月10日",
+      "release_ts": 1788998400
     },
     {
       "appid": 2934190,
@@ -1690,6 +1705,21 @@
       "release_date": "2025年7月10日",
       "release_ts": 1752105600,
       "stream_url": "https://www.youtube.com/live/RT6HFGVKnIw?si=Q_eHDskVXaiTM98-"
+    },
+    {
+      "appid": 3874890,
+      "name": "Riruri Tachibana : Reincarnated",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "【重大告知】橘リルリ転生いたします！",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3874890/a9e46d736fc924b3e6d369c25eff5ee6a8ffa1d5/header_japanese.jpg?t=1789096606",
+      "developer": "OTL GAME",
+      "publisher": "OTL GAME",
+      "release_date": "2026年9月10日",
+      "release_ts": 1788998400
     },
     {
       "appid": 541570,
