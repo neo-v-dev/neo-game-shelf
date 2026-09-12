@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T20:32:49.629Z",
+  "fetched_at": "2026-09-12T20:15:03.319Z",
   "games": [
     {
       "appid": 3659180,
@@ -528,6 +528,21 @@
       "publisher": "Stray Fawn Publishing",
       "release_date": "2026年4月30日",
       "release_ts": 1777507200
+    },
+    {
+      "appid": 3406810,
+      "name": "Dyping Escape",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Dyping Escape",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3406810/037588226344b77dabdf7dfac9d4ab1a63063022/header.jpg?t=1774497500",
+      "developer": "Heaviside Creations",
+      "publisher": "PLAYISM",
+      "release_date": "2026年3月13日",
+      "release_ts": 1773360000
     },
     {
       "appid": 4790520,
@@ -2586,8 +2601,8 @@
     {
       "appid": 1325860,
       "name": "VTube Studio",
-      "playtime_forever": 19356,
-      "rtime_last_played": 1788570334,
+      "playtime_forever": 19597,
+      "rtime_last_played": 1789232242,
       "visible": false,
       "played": true,
       "show_playtime": true,
