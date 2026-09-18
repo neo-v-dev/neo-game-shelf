@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T20:59:34.722Z",
+  "fetched_at": "2026-09-18T20:29:39.688Z",
   "games": [
     {
       "appid": 3659180,
@@ -45,6 +45,21 @@
       "publisher": "The Fun Pimps Entertainment LLC",
       "release_date": "2024年7月25日",
       "release_ts": 1721865600
+    },
+    {
+      "appid": 3916440,
+      "name": "771",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "771",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916440/0b61223e01e0cb436573a4627cf73476c26d31bb/header.jpg?t=1789419659",
+      "developer": "Admia",
+      "publisher": "Admia",
+      "release_date": "2026年9月14日",
+      "release_ts": 1789344000
     },
     {
       "appid": 2366080,
@@ -348,6 +363,21 @@
       "publisher": "Remedy Entertainment",
       "release_date": "2020年8月27日",
       "release_ts": 1598486400
+    },
+    {
+      "appid": 1273260,
+      "name": "Corpse Party (2021)",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "コープスパーティー ブラッドカバー リピーティッドフィアー",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273260/header.jpg?t=1787119458",
+      "developer": "MAGES.",
+      "publisher": "XSEED Games",
+      "release_date": "2021年10月20日",
+      "release_ts": 1634688000
     },
     {
       "appid": 3334550,
@@ -2282,6 +2312,21 @@
       "release_ts": 1698710400
     },
     {
+      "appid": 4742180,
+      "name": "The Laundry That Won’t Open",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "開かない。ランドリー",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742180/a8e85742f49fb566d012a8d41bcc188e789727e9/header_japanese.jpg?t=1789461424",
+      "developer": "文さん/bunsan",
+      "publisher": "文さん/bunsan",
+      "release_date": "2026年9月14日",
+      "release_ts": 1789344000
+    },
+    {
       "appid": 1671550,
       "name": "The Night Way Home | 帰り道",
       "playtime_forever": 0,
@@ -2325,6 +2370,21 @@
       "publisher": "Dark Snow Games",
       "release_date": "2026年8月17日",
       "release_ts": 1786924800
+    },
+    {
+      "appid": 4140530,
+      "name": "The Plant Shop",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Plant Shop",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140530/eb53fb2eae5b78fd962d37f522986332e3a58778/header_japanese.jpg?t=1789654389",
+      "developer": "Tori",
+      "publisher": "Tori",
+      "release_date": "2026年9月16日",
+      "release_ts": 1789516800
     },
     {
       "appid": 1744910,
@@ -2853,6 +2913,21 @@
       "publisher": "ArezigokuGames",
       "release_date": "2025年7月23日",
       "release_ts": 1753228800
+    },
+    {
+      "appid": 4851090,
+      "name": "忌品管理部",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "忌品管理部",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851090/0dfff675368ed80a20603cefbd046ada631887ca/header.jpg?t=1789520498",
+      "developer": "zentac studio",
+      "publisher": "zentac studio",
+      "release_date": "2026年9月15日",
+      "release_ts": 1789430400
     },
     {
       "appid": 4154100,
