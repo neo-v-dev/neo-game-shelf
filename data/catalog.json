@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T20:29:39.688Z",
+  "fetched_at": "2026-09-19T20:07:55.496Z",
   "games": [
     {
       "appid": 3659180,
@@ -1464,6 +1464,21 @@
       "release_ts": 1786060800
     },
     {
+      "appid": 4330780,
+      "name": "On The Way Home : Strange Incidents",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "怪異道  カイイミチ",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330780/d58ee1b1cb656d7f7d56a1f9396fbf6424359284/header_japanese.jpg?t=1785481231",
+      "developer": "KarasuTengu",
+      "publisher": "KarasuTengu",
+      "release_date": "2026年7月31日",
+      "release_ts": 1785456000
+    },
+    {
       "appid": 893720,
       "name": "One Hand Clapping",
       "playtime_forever": 0,
@@ -1734,6 +1749,21 @@
       "publisher": "TheBossa Works",
       "release_date": "2026年9月3日",
       "release_ts": 1788393600
+    },
+    {
+      "appid": 4538140,
+      "name": "Rehaunted",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Rehaunted",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538140/3634bc1eef00e4b73b2acc65e8f1b3eba8dd558a/header.jpg?t=1789401594",
+      "developer": "Cauchemar",
+      "publisher": "Cauchemar",
+      "release_date": "2026年9月14日",
+      "release_ts": 1789344000
     },
     {
       "appid": 3461950,
