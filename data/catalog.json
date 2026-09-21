@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T20:24:25.131Z",
+  "fetched_at": "2026-09-21T21:45:00.737Z",
   "games": [
     {
       "appid": 3659180,
@@ -1372,6 +1372,21 @@
       "publisher": "Chilla's Art",
       "release_date": "2021年6月4日",
       "release_ts": 1622764800
+    },
+    {
+      "appid": 4652040,
+      "name": "Night Record: Thin Walls",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Night Record: Thin Walls",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652040/ff7236fad6ecad60c12f28cb48883e383b655722/header.jpg?t=1789835466",
+      "developer": "Althera Studio",
+      "publisher": "Althera Studio",
+      "release_date": "2026年9月19日",
+      "release_ts": 1789776000
     },
     {
       "appid": 2367230,
