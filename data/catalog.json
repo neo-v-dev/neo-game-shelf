@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T21:57:11.049Z",
+  "fetched_at": "2026-09-30T21:55:21.520Z",
   "games": [
     {
       "appid": 3659180,
@@ -302,6 +302,21 @@
       "publisher": "Electronic Arts",
       "release_date": "2021年11月19日",
       "release_ts": 1637280000
+    },
+    {
+      "appid": 5121040,
+      "name": "Beetle Forest",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "カブトムシの森",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5121040/4325cf0cf7eda35a890a02bafb70a13da7dad83f/header_japanese.jpg?t=1790604054",
+      "developer": "Neruneko",
+      "publisher": "Neruneko",
+      "release_date": "2026年9月19日",
+      "release_ts": 1789776000
     },
     {
       "appid": 1766740,
