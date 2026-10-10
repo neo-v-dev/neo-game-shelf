@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T22:20:36.095Z",
+  "fetched_at": "2026-10-10T21:14:12.134Z",
   "games": [
     {
       "appid": 3659180,
@@ -15,6 +15,21 @@
       "publisher": "riinwin",
       "release_date": "2025年5月16日",
       "release_ts": 1747353600
+    },
+    {
+      "appid": 4962190,
+      "name": "■■になってくれませんか？",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "■■になってくれませんか？",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962190/513d712bc79001aa9988bd6c1f43e1c8b6ce63b8/header_japanese.jpg?t=1791286875",
+      "developer": "双子の姉(FutagonoAne)",
+      "publisher": "双子の姉(FutagonoAne)",
+      "release_date": "2026年9月30日",
+      "release_ts": 1790726400
     },
     {
       "appid": 4963870,
@@ -319,6 +334,21 @@
       "release_ts": 1789776000
     },
     {
+      "appid": 5186280,
+      "name": "Beyond the Door",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "扉の向こうには",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5186280/92e3a7d1eb90d4f03228c821919f011cd7564b3c/header_japanese.jpg?t=1790954745",
+      "developer": "AWAKURA GAME STUDIO",
+      "publisher": "AWAKURA GAME STUDIO",
+      "release_date": "2026年10月2日",
+      "release_ts": 1790899200
+    },
+    {
       "appid": 1766740,
       "name": "Choo-Choo Charles",
       "playtime_forever": 0,
@@ -410,6 +440,21 @@
       "release_ts": 1736380800
     },
     {
+      "appid": 3744190,
+      "name": "Cyan Heart",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Cyan Heart",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744190/8cc4b374631e5595a33d0f44212d973b1b9230d9/header.jpg?t=1791500421",
+      "developer": "Shoei Sio",
+      "publisher": "Shoei Sio",
+      "release_date": "2026年10月8日",
+      "release_ts": 1791417600
+    },
+    {
       "appid": 4453680,
       "name": "Dawn Bell",
       "playtime_forever": 0,
@@ -438,6 +483,21 @@
       "publisher": "Deep Silver",
       "release_date": "2024年4月22日",
       "release_ts": 1713744000
+    },
+    {
+      "appid": 5119790,
+      "name": "Death Momotaro",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "デス桃太郎",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5119790/093e92551a9c14bc3907d26ea4d556ca55d23217/header.jpg?t=1790382903",
+      "developer": "Hirasaka",
+      "publisher": "Hirasaka",
+      "release_date": "2026年9月24日",
+      "release_ts": 1790208000
     },
     {
       "appid": 4015010,
@@ -784,6 +844,21 @@
       "publisher": "ambr",
       "release_date": "2025年4月30日",
       "release_ts": 1745971200
+    },
+    {
+      "appid": 3200460,
+      "name": "Greed Stays Home",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Greed Stays Home / グリード ステイズ ホーム",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3200460/header.jpg?t=1769443478",
+      "developer": "Yellow Basement Games",
+      "publisher": "Yellow Basement Games",
+      "release_date": "2025年1月23日",
+      "release_ts": 1737590400
     },
     {
       "appid": 1400290,
@@ -1980,6 +2055,21 @@
       "release_ts": 1754179200
     },
     {
+      "appid": 3386350,
+      "name": "Shinjuku Anomaly",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "新宿異変",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386350/629ea53a26d393a263a14ecb908a8f9e738b1026/header_japanese.jpg?t=1790730086",
+      "developer": "AMATA Games",
+      "publisher": "AMATA Games",
+      "release_date": "2026年9月29日",
+      "release_ts": 1790640000
+    },
+    {
       "appid": 2793370,
       "name": "Shinkansen 0 | 新幹線 0号",
       "playtime_forever": 0,
@@ -2158,6 +2248,21 @@
       "publisher": "株式会社闇",
       "release_date": "2026年8月27日",
       "release_ts": 1787788800
+    },
+    {
+      "appid": 4406360,
+      "name": "The Abandoned House in Yeongdeok",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "英徳(ヨンドク)の廃屋",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406360/92677b44ed0686a71c3029c158ed88623479b405/header.jpg?t=1787914621",
+      "developer": "Utane",
+      "publisher": "Working Doves",
+      "release_date": "2026年8月28日",
+      "release_ts": 1787875200
     },
     {
       "appid": 4181410,
