@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T21:19:25.415Z",
+  "fetched_at": "2026-10-15T20:59:54.273Z",
   "games": [
     {
       "appid": 3659180,
@@ -588,6 +588,21 @@
       "publisher": "Digital Cybercherries",
       "release_date": "2024年10月28日",
       "release_ts": 1730073600
+    },
+    {
+      "appid": 2625510,
+      "name": "Don't Shout Together",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Don't Shout Together",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625510/header.jpg?t=1728998547",
+      "developer": "SinisterGames",
+      "publisher": "SinisterGames ",
+      "release_date": "2024年6月14日",
+      "release_ts": 1718323200
     },
     {
       "appid": 3114900,
@@ -1208,6 +1223,21 @@
       "release_ts": 1702598400
     },
     {
+      "appid": 3115880,
+      "name": "Jumpscare Scare Jump",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ジャンプスケア・スケアジャンプ",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115880/header.jpg?t=1729709063",
+      "developer": "Rusimitu Games",
+      "publisher": "Rusimitu Games",
+      "release_date": "2024年9月13日",
+      "release_ts": 1726185600
+    },
+    {
       "appid": 2137620,
       "name": "Korean BBQ Simulator",
       "playtime_forever": 0,
@@ -1221,6 +1251,21 @@
       "publisher": "PSI Game Studio",
       "release_date": "2022年10月13日",
       "release_ts": 1665619200
+    },
+    {
+      "appid": 4494970,
+      "name": "Kyofu Yawa: Scary Stories at Night",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "恐怖夜話",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4494970/bb826898e2a76af7809089f036d4cf53829bfcb9/header.jpg?t=1791851869",
+      "developer": "ひめこ",
+      "publisher": "ひめこ",
+      "release_date": "2026年4月8日",
+      "release_ts": 1775606400
     },
     {
       "appid": 4298500,
@@ -3108,6 +3153,21 @@
       "publisher": "EBA GAME",
       "release_date": "2026年3月31日",
       "release_ts": 1774915200
+    },
+    {
+      "appid": 4981040,
+      "name": "恐怖夜話 第二夜",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "恐怖夜話 第二夜",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981040/d768e15c4b84653161c5fa27fe8ea1b5bd562ce2/header.jpg?t=1791961202",
+      "developer": "ひめこ",
+      "publisher": "ひめこ",
+      "release_date": "2026年10月14日",
+      "release_ts": 1791936000
     },
     {
       "appid": 4193270,
