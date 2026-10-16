@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T20:59:54.273Z",
+  "fetched_at": "2026-10-16T20:35:00.674Z",
   "games": [
     {
       "appid": 3659180,
@@ -47,6 +47,21 @@
       "release_ts": 1785974400
     },
     {
+      "appid": 5034120,
+      "name": "6F: NIGHT SCHOOL LOOP∞",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "6F: NIGHT SCHOOL LOOP∞",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034120/8389e6f84c334f954c2c9d3a6c15c85cedbb8b78/header.jpg?t=1789996559",
+      "developer": "お寿司",
+      "publisher": "お寿司",
+      "release_date": "2026年9月15日",
+      "release_ts": 1789430400
+    },
+    {
       "appid": 251570,
       "name": "7 Days to Die",
       "playtime_forever": 330,
@@ -90,6 +105,21 @@
       "publisher": "Euphoria Games",
       "release_date": "2023年4月14日",
       "release_ts": 1681430400
+    },
+    {
+      "appid": 4161930,
+      "name": "A taste of home",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "いえのあじ | A taste of home",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4161930/47c69dfa6f226aed892e82b4dafa63b7c9cd1de5/header.jpg?t=1764919027",
+      "developer": "KuroGameMaker",
+      "publisher": "KuroGameMaker",
+      "release_date": "2025年12月4日",
+      "release_ts": 1764806400
     },
     {
       "appid": 1720850,
@@ -665,6 +695,21 @@
       "release_ts": 1773360000
     },
     {
+      "appid": 4000060,
+      "name": "Eight Strange Corridors",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "八怪廊 / Eight Strange Corridors",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000060/fd63e77cc3ec98671868e631d7723792282a06e7/header_japanese.jpg?t=1758866411",
+      "developer": "Sige",
+      "publisher": "Sige",
+      "release_date": "2025年9月25日",
+      "release_ts": 1758758400
+    },
+    {
       "appid": 4790520,
       "name": "ELEVATOR: AVICI",
       "playtime_forever": 0,
@@ -678,6 +723,21 @@
       "publisher": "Southern Cross",
       "release_date": "2026年7月9日",
       "release_ts": 1783555200
+    },
+    {
+      "appid": 2738050,
+      "name": "Escalator",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "エスカレーター |  Escalator",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738050/header.jpg?t=1704634146",
+      "developer": "Toyasky",
+      "publisher": "Toyasky",
+      "release_date": "2024年1月6日",
+      "release_ts": 1704499200
     },
     {
       "appid": 1748610,
@@ -768,6 +828,21 @@
       "publisher": "Simon Au Yeung",
       "release_date": "2024年6月11日",
       "release_ts": 1718064000
+    },
+    {
+      "appid": 3247990,
+      "name": "From The Other Side",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "From The Other Side",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247990/header.jpg?t=1739981041",
+      "developer": "Vania Studios",
+      "publisher": "Vania Studios",
+      "release_date": "2025年2月19日",
+      "release_ts": 1739923200
     },
     {
       "appid": 240720,
@@ -934,6 +1009,21 @@
       "publisher": "Ghostcase",
       "release_date": "2026年8月11日",
       "release_ts": 1786406400
+    },
+    {
+      "appid": 3400040,
+      "name": "Haunted Property",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "心霊物件",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400040/header.jpg?t=1740025204",
+      "developer": "Yamoto",
+      "publisher": "Yamoto",
+      "release_date": "2025年2月19日",
+      "release_ts": 1739923200
     },
     {
       "appid": 394360,
@@ -1253,6 +1343,21 @@
       "release_ts": 1665619200
     },
     {
+      "appid": 5008500,
+      "name": "Kubi Meguri",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "首巡り",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008500/ac2043c1026fc09706bdb3baa9295558716ff396/header.jpg?t=1787829748",
+      "developer": "OBORO",
+      "publisher": "OBORO",
+      "release_date": "2026年8月27日",
+      "release_ts": 1787788800
+    },
+    {
       "appid": 4494970,
       "name": "Kyofu Yawa: Scary Stories at Night",
       "playtime_forever": 0,
@@ -1283,6 +1388,21 @@
       "release_ts": 1787788800
     },
     {
+      "appid": 3820460,
+      "name": "Last On Duty",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Last On Duty",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3820460/e3f39673b67fc8e224a3d3b8aab7461be9227d62/header.jpg?t=1791779172",
+      "developer": "Simon Au Yeung",
+      "publisher": "Simon Au Yeung",
+      "release_date": "2026年10月11日",
+      "release_ts": 1791676800
+    },
+    {
       "appid": 4244930,
       "name": "Log.in",
       "playtime_forever": 0,
@@ -1311,6 +1431,21 @@
       "publisher": "IndieArk",
       "release_date": "2023年3月9日",
       "release_ts": 1678320000
+    },
+    {
+      "appid": 4977580,
+      "name": "Lost Item",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "忘れ物",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4977580/773f0dcad510830c555bfb53194f9df124f5dfe6/header_japanese.jpg?t=1788958441",
+      "developer": "to_teki",
+      "publisher": "to_teki",
+      "release_date": "2026年9月9日",
+      "release_ts": 1788912000
     },
     {
       "appid": 1305300,
@@ -1464,6 +1599,21 @@
       "release_ts": 1659571200
     },
     {
+      "appid": 3568460,
+      "name": "MustScream",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "MustScream",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3568460/fa97da1ebcdb2cbbb10e570d16a47fcb5ea85aa2/header.jpg?t=1790757062",
+      "developer": "YonGame",
+      "publisher": "YonGame",
+      "release_date": "2025年7月30日",
+      "release_ts": 1753833600
+    },
+    {
       "appid": 2693860,
       "name": "NARIBIKIMURA",
       "playtime_forever": 0,
@@ -1554,6 +1704,21 @@
       "release_ts": 1778284800
     },
     {
+      "appid": 4581880,
+      "name": "No exceptions",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "絶対遵守",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581880/7b724781fe7f3da8031a646c7231d4743daa4735/header_japanese.jpg?t=1792148479",
+      "developer": "ConnectedShadowGames",
+      "publisher": "ConnectedShadowGames",
+      "release_date": "2026年10月16日",
+      "release_ts": 1792108800
+    },
+    {
       "appid": 3979330,
       "name": "nophenia",
       "playtime_forever": 0,
@@ -1567,6 +1732,21 @@
       "publisher": "lane",
       "release_date": "2026年6月26日",
       "release_ts": 1782432000
+    },
+    {
+      "appid": 4761360,
+      "name": "OBSESSED",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "OBSESSED",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761360/753999dbdfb08bd9b6ead4e7103f19097af143ff/header.jpg?t=1791727822",
+      "developer": "Skritch Games",
+      "publisher": "Skritch Games",
+      "release_date": "2026年10月9日",
+      "release_ts": 1791504000
     },
     {
       "appid": 4904130,
@@ -1777,6 +1957,21 @@
       "publisher": "Sine Coda",
       "release_date": "2024年10月24日",
       "release_ts": 1729728000
+    },
+    {
+      "appid": 3737310,
+      "name": "Parasite Elevator",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "寄生エレベーター",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3737310/36a8b9cb5ebf5ffeb4be09368896a4dc59be05da/header.jpg?t=1789731913",
+      "developer": "TAYUTA CREATE",
+      "publisher": "TAYUTA CREATE",
+      "release_date": "2026年9月18日",
+      "release_ts": 1789689600
     },
     {
       "appid": 2314720,
@@ -2021,6 +2216,21 @@
       "publisher": "TozukuGames",
       "release_date": "2023年8月31日",
       "release_ts": 1693440000
+    },
+    {
+      "appid": 5193640,
+      "name": "SEVEN SCHOOL GHOST STORIES | 学校の七つの怪談",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "学校の七つの怪談",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5193640/eb154c68dd7905d12ca8d0d7e45d4fa876a69c5c/header.jpg?t=1791323039",
+      "developer": "Hikachof",
+      "publisher": "Hikachof",
+      "release_date": "2026年9月29日",
+      "release_ts": 1790640000
     },
     {
       "appid": 1025250,
@@ -2356,6 +2566,36 @@
       "release_ts": 1723161600
     },
     {
+      "appid": 3461920,
+      "name": "The Boba Teashop",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Boba Teashop",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461920/header_japanese.jpg?t=1774794865",
+      "developer": "Mike Ten",
+      "publisher": "Mike Ten",
+      "release_date": "2025年4月20日",
+      "release_ts": 1745107200
+    },
+    {
+      "appid": 3311740,
+      "name": "The Cabin Factory",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Cabin Factory",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311740/header.jpg?t=1786539781",
+      "developer": "International Cat Studios",
+      "publisher": "Future Friends Games",
+      "release_date": "2024年12月13日",
+      "release_ts": 1734048000
+    },
+    {
       "appid": 1503670,
       "name": "The Caregiver | 終焉介護",
       "playtime_forever": 0,
@@ -2567,6 +2807,21 @@
       "release_ts": 1787788800
     },
     {
+      "appid": 3239370,
+      "name": "The Paddy Field",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "たんぼ",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3239370/header.jpg?t=1742011831",
+      "developer": "VoVora Games",
+      "publisher": "VoVora Games",
+      "release_date": "2025年1月9日",
+      "release_ts": 1736380800
+    },
+    {
       "appid": 4415740,
       "name": "The Pale Mimic",
       "playtime_forever": 0,
@@ -2595,6 +2850,21 @@
       "publisher": "Tori",
       "release_date": "2026年9月16日",
       "release_ts": 1789516800
+    },
+    {
+      "appid": 4895060,
+      "name": "The Quiet Flat",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Quiet Flat",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895060/d5bcd0f47569040735ded3dc381e8d1a6421d6cd/header.jpg?t=1792176383",
+      "developer": "Firzy Games",
+      "publisher": "Firzy Games",
+      "release_date": "2026年9月4日",
+      "release_ts": 1788480000
     },
     {
       "appid": 1744910,
@@ -2640,6 +2910,21 @@
       "publisher": "DANGEN Entertainment",
       "release_date": "2018年10月30日",
       "release_ts": 1540857600
+    },
+    {
+      "appid": 4429870,
+      "name": "There's Nothing Down There",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "There's Nothing Down There",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429870/ddd73a754b9c62e46d244b9896c5de1a7d1924d7/header.jpg?t=1790873780",
+      "developer": "Tim Trankle",
+      "publisher": "Tim Trankle",
+      "release_date": "2026年6月4日",
+      "release_ts": 1780531200
     },
     {
       "appid": 644930,
@@ -2854,6 +3139,21 @@
       "release_ts": 1788393600
     },
     {
+      "appid": 2939550,
+      "name": "Urayama",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ウラヤマ",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939550/header.jpg?t=1724699282",
+      "developer": "Yamoto",
+      "publisher": "Yamoto",
+      "release_date": "2024年8月26日",
+      "release_ts": 1724630400
+    },
+    {
       "appid": 438100,
       "name": "VRChat",
       "playtime_forever": 146,
@@ -2882,6 +3182,21 @@
       "publisher": "DenchiSoft",
       "release_date": "2021年3月12日",
       "release_ts": 1615507200
+    },
+    {
+      "appid": 4631470,
+      "name": "Where It Happened",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Where It Happened",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631470/6aea501dcab9bfc3af1d2a1df6f0b5dc5f0dcc52/header.jpg?t=1791990040",
+      "developer": "Waycore Studio",
+      "publisher": "Waycore Studio",
+      "release_date": "2026年10月14日",
+      "release_ts": 1791936000
     },
     {
       "appid": 3604030,
@@ -2927,6 +3242,21 @@
       "publisher": "SECRET CHARACTER",
       "release_date": "2022年6月3日",
       "release_ts": 1654214400
+    },
+    {
+      "appid": 1998330,
+      "name": "Yomawari: Lost in the Dark",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "夜廻三",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1998330/header_japanese.jpg?t=1732665458",
+      "developer": "Nippon Ichi Software, Inc.",
+      "publisher": "NIS America, Inc.",
+      "release_date": "2022年10月25日",
+      "release_ts": 1666656000
     },
     {
       "appid": 625980,
@@ -3063,6 +3393,21 @@
       "publisher": "OwataStudio",
       "release_date": "2026年8月23日",
       "release_ts": 1787443200
+    },
+    {
+      "appid": 3174810,
+      "name": "ニコニコさん",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ニコニコさん | Niconico-san",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3174810/199e612a0adbe03a0dc6f4357570b376e00fece2/header_japanese.jpg?t=1746031871",
+      "developer": "TI-BA",
+      "publisher": "TI-BA",
+      "release_date": "2025年4月24日",
+      "release_ts": 1745452800
     },
     {
       "appid": 4485940,
@@ -3259,6 +3604,21 @@
       "publisher": "STUDIO DYD",
       "release_date": "2025年11月15日",
       "release_ts": 1763164800
+    },
+    {
+      "appid": 4173550,
+      "name": "都市伝説.exe",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "都市伝説.exe",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4173550/75b9dbfd0e2b08d78169addd845ed05567240385/header.jpg?t=1770735551",
+      "developer": "RainyDollGames",
+      "publisher": "エヌビーゲームズ",
+      "release_date": "2026年1月28日",
+      "release_ts": 1769558400
     },
     {
       "appid": 5069370,
