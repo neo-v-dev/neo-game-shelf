@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T20:35:00.674Z",
+  "fetched_at": "2026-10-17T20:12:40.876Z",
   "games": [
     {
       "appid": 3659180,
@@ -3171,8 +3171,8 @@
     {
       "appid": 1325860,
       "name": "VTube Studio",
-      "playtime_forever": 20314,
-      "rtime_last_played": 1789876266,
+      "playtime_forever": 20515,
+      "rtime_last_played": 1792201948,
       "visible": false,
       "played": true,
       "show_playtime": true,
