@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T20:19:22.452Z",
+  "fetched_at": "2026-10-25T20:26:48.641Z",
   "games": [
     {
       "appid": 3659180,
@@ -1371,6 +1371,21 @@
       "publisher": "ひめこ",
       "release_date": "2026年4月8日",
       "release_ts": 1775606400
+    },
+    {
+      "appid": 4981040,
+      "name": "Kyofu Yawa: Second Night",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "恐怖夜話 第二夜",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981040/d768e15c4b84653161c5fa27fe8ea1b5bd562ce2/header.jpg?t=1791961202",
+      "developer": "ひめこ",
+      "publisher": "ひめこ",
+      "release_date": "2026年10月14日",
+      "release_ts": 1791936000
     },
     {
       "appid": 4298500,
@@ -3498,21 +3513,6 @@
       "publisher": "EBA GAME",
       "release_date": "2026年3月31日",
       "release_ts": 1774915200
-    },
-    {
-      "appid": 4981040,
-      "name": "恐怖夜話 第二夜",
-      "playtime_forever": 0,
-      "rtime_last_played": 0,
-      "visible": true,
-      "played": false,
-      "show_playtime": true,
-      "name_ja": "恐怖夜話 第二夜",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981040/d768e15c4b84653161c5fa27fe8ea1b5bd562ce2/header.jpg?t=1791961202",
-      "developer": "ひめこ",
-      "publisher": "ひめこ",
-      "release_date": "2026年10月14日",
-      "release_ts": 1791936000
     },
     {
       "appid": 4193270,
