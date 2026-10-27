@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T22:21:05.481Z",
+  "fetched_at": "2026-10-27T21:52:15.392Z",
   "games": [
     {
       "appid": 3659180,
@@ -45,6 +45,21 @@
       "publisher": "Studio Marigold",
       "release_date": "2026年8月6日",
       "release_ts": 1785974400
+    },
+    {
+      "appid": 4608750,
+      "name": "60病　The 60-Second Syndrome",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "60病　The 60-Second Syndrome",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608750/5f2d16a3091e3856043c2361a14f6eb460704bcd/header.jpg?t=1793001548",
+      "developer": "Matrix Corporation",
+      "publisher": "Matrix Corporation",
+      "release_date": "2026年10月26日",
+      "release_ts": 1792972800
     },
     {
       "appid": 5034120,
@@ -2717,6 +2732,21 @@
       "release_ts": 1525046400
     },
     {
+      "appid": 2106810,
+      "name": "The Forest of Drizzling Rain",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "霧雨が降る森",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106810/header_japanese.jpg?t=1787795788",
+      "developer": "Makoto Sanada",
+      "publisher": "Vaka Game Magazine",
+      "release_date": "2022年11月16日",
+      "release_ts": 1668556800
+    },
+    {
       "appid": 2904890,
       "name": "The Game of Sisyphus",
       "playtime_forever": 37,
@@ -2925,6 +2955,21 @@
       "publisher": "DANGEN Entertainment",
       "release_date": "2018年10月30日",
       "release_ts": 1540857600
+    },
+    {
+      "appid": 5101180,
+      "name": "The World's Shortest Horror Game",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The World's Shortest Horror Game",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101180/6a668de56c4f38bc2ffbf817d4254937950cfc5f/header_alt_assets_0.jpg?t=1792688603",
+      "developer": "Playmoth Games",
+      "publisher": "Playmoth Games",
+      "release_date": "2026年10月22日",
+      "release_ts": 1792627200
     },
     {
       "appid": 4429870,
