@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T21:52:15.392Z",
+  "fetched_at": "2026-10-28T22:15:50.409Z",
   "games": [
     {
       "appid": 3659180,
@@ -198,6 +198,21 @@
       "release_ts": 1569196800
     },
     {
+      "appid": 2420580,
+      "name": "ALYSSA",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ALYSSA",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420580/f376a4c40cc801aa5f83a6a120afce4624a5f17f/header.jpg?t=1792941978",
+      "developer": "Broken Arrow Games",
+      "publisher": "Broken Arrow Games",
+      "release_date": "2026年10月22日",
+      "release_ts": 1792627200
+    },
+    {
       "appid": 945360,
       "name": "Among Us",
       "playtime_forever": 1813,
@@ -392,6 +407,51 @@
       "publisher": "AWAKURA GAME STUDIO",
       "release_date": "2026年10月2日",
       "release_ts": 1790899200
+    },
+    {
+      "appid": 3886200,
+      "name": "BrokenLore: DON’T LIE",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "BrokenLore: DON’T LIE",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886200/273d6556f68fe1d55b48f24b00c39ebeb4d72564/header_alt_assets_2.jpg?t=1793035143",
+      "developer": "Serafini Productions",
+      "publisher": "Wired Productions",
+      "release_date": "2026年9月10日",
+      "release_ts": 1788998400
+    },
+    {
+      "appid": 2351330,
+      "name": "BrokenLore: DON'T WATCH",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "BrokenLore: DON'T WATCH",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2351330/d38a8d0ca815845416fb2343bb5a241034e526a3/header_japanese.jpg?t=1790535584",
+      "developer": "Serafini Productions",
+      "publisher": "Serafini Productions",
+      "release_date": "2025年4月24日",
+      "release_ts": 1745452800
+    },
+    {
+      "appid": 3014520,
+      "name": "BrokenLore: LOW",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "BrokenLore: LOW | 霧雨村",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014520/header_japanese.jpg?t=1774784493",
+      "developer": "Serafini Productions",
+      "publisher": "Serafini Productions",
+      "release_date": "2025年2月20日",
+      "release_ts": 1740009600
     },
     {
       "appid": 1766740,
@@ -1508,6 +1568,21 @@
       "release_ts": 1474502400
     },
     {
+      "appid": 515960,
+      "name": "Martha Is Dead",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Martha Is Dead",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/515960/13a12224269c46a3629ec047ca66abdad0836417/header_alt_assets_5.jpg?t=1792770155",
+      "developer": "LKA",
+      "publisher": "Wired Productions",
+      "release_date": "2022年2月24日",
+      "release_ts": 1645660800
+    },
+    {
       "appid": 1519900,
       "name": "MASAGORO",
       "playtime_forever": 0,
@@ -2124,6 +2199,21 @@
       "publisher": "TheBossa Works",
       "release_date": "2026年9月3日",
       "release_ts": 1788393600
+    },
+    {
+      "appid": 4413070,
+      "name": "Red Chat Ritual  – TSUMIMI TIME",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "つみみじかん　～狂オシイホド愛シテル～",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413070/7765414e10aa13b7ab07f25c2c1ee0a1f6850000/header_japanese.jpg?t=1792798935",
+      "developer": "Tohakusha Inc.",
+      "publisher": "Tohakusha Inc.",
+      "release_date": "2026年10月22日",
+      "release_ts": 1792627200
     },
     {
       "appid": 4538140,
@@ -3571,6 +3661,21 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193270/9c7d0b860d5a7879359da52a9694875e1080c90e/header_japanese.jpg?t=1766481979",
       "developer": "日本事故物件監視協会",
       "publisher": "日本事故物件監視協会",
+      "release_date": "2025年12月17日",
+      "release_ts": 1765929600
+    },
+    {
+      "appid": 3644630,
+      "name": "柘榴団地",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "柘榴団地",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644630/a337c7d2641aa1a47544a7cf6b5cfcecbd526600/header_japanese.jpg?t=1780715596",
+      "developer": "Korekoreshikazika",
+      "publisher": "Korekoreshikazika",
       "release_date": "2025年12月17日",
       "release_ts": 1765929600
     },
