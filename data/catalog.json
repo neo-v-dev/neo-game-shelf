@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T22:15:50.409Z",
+  "fetched_at": "2026-10-29T22:29:13.333Z",
   "games": [
     {
       "appid": 3659180,
@@ -452,6 +452,21 @@
       "publisher": "Serafini Productions",
       "release_date": "2025年2月20日",
       "release_ts": 1740009600
+    },
+    {
+      "appid": 2835570,
+      "name": "Buckshot Roulette",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Buckshot Roulette",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/header.jpg?t=1783085442",
+      "developer": "Mike Klubnika",
+      "publisher": "CRITICAL REFLEX",
+      "release_date": "2024年4月4日",
+      "release_ts": 1712188800
     },
     {
       "appid": 1766740,
@@ -1011,6 +1026,21 @@
       "release_ts": 1745971200
     },
     {
+      "appid": 3881920,
+      "name": "Good Children Say Grace",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "いい子は、お祈りを捧げる（Good Children Say Grace）",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3881920/c8e514565fc65b64104d7890a88f0295ba6f9ee3/header.jpg?t=1793051470",
+      "developer": "Denis Morozov",
+      "publisher": "Denis Morozov",
+      "release_date": "2026年10月23日",
+      "release_ts": 1792713600
+    },
+    {
       "appid": 3200460,
       "name": "Greed Stays Home",
       "playtime_forever": 0,
@@ -1310,6 +1340,21 @@
       "publisher": "Notovia",
       "release_date": "2025年12月4日",
       "release_ts": 1764806400
+    },
+    {
+      "appid": 1092790,
+      "name": "Inscryption",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Inscryption",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1777572925",
+      "developer": "Daniel Mullins Games",
+      "publisher": "Devolver Digital",
+      "release_date": "2021年10月19日",
+      "release_ts": 1634601600
     },
     {
       "appid": 1185160,
@@ -1642,6 +1687,21 @@
       "publisher": "Funghisoft",
       "release_date": "2017年1月5日",
       "release_ts": 1483574400
+    },
+    {
+      "appid": 2827200,
+      "name": "MIMESIS",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ミメシス",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/9108c2901a1d8ddc96bc68c6c5996fcb2b777ec0/header_alt_assets_2.jpg?t=1793079449",
+      "developer": "ReLU Games, Inc.",
+      "publisher": "ReLU Games, Inc.",
+      "release_date": "2025年10月27日",
+      "release_ts": 1761523200
     },
     {
       "appid": 1306620,
@@ -2184,6 +2244,21 @@
       "publisher": "Chicken Launcher",
       "release_date": "2026年5月19日",
       "release_ts": 1779148800
+    },
+    {
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "R.E.P.O.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
+      "developer": "semiwork",
+      "publisher": "semiwork",
+      "release_date": "2025年2月26日",
+      "release_ts": 1740528000
     },
     {
       "appid": 3118910,
@@ -2940,6 +3015,21 @@
       "publisher": "Studio Ortica",
       "release_date": "2026年8月27日",
       "release_ts": 1787788800
+    },
+    {
+      "appid": 1304930,
+      "name": "The Outlast Trials",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Outlast Trials",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
+      "developer": "Red Barrels",
+      "publisher": "Red Barrels",
+      "release_date": "2024年3月5日",
+      "release_ts": 1709596800
     },
     {
       "appid": 3239370,
