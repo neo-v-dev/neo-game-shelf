@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T22:29:13.333Z",
+  "fetched_at": "2026-10-30T21:58:25.034Z",
   "games": [
     {
       "appid": 3659180,
@@ -1448,6 +1448,21 @@
       "release_ts": 1726185600
     },
     {
+      "appid": 5321510,
+      "name": "Kimodameshi Online",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "肝試しオンライン",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/847e4f25495af22ae23801867151e97354415252/header_japanese.jpg?t=1793026818",
+      "developer": "パン田",
+      "publisher": "パン田",
+      "release_date": "2026年10月26日",
+      "release_ts": 1792972800
+    },
+    {
       "appid": 2137620,
       "name": "Korean BBQ Simulator",
       "playtime_forever": 0,
@@ -2700,6 +2715,21 @@
       "release_ts": 1787788800
     },
     {
+      "appid": 2920220,
+      "name": "Terrible Lizards",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Terrible Lizards",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920220/4b19bf2cbb1c1ef26cc0e898fc6e727776845b73/header.jpg?t=1793292736",
+      "developer": "WDR Studios LLC",
+      "publisher": "Digital Pajamas",
+      "release_date": "2026年10月29日",
+      "release_ts": 1793232000
+    },
+    {
       "appid": 4406360,
       "name": "The Abandoned House in Yeongdeok",
       "playtime_forever": 0,
@@ -3392,6 +3422,21 @@
       "publisher": "Yamoto",
       "release_date": "2024年8月26日",
       "release_ts": 1724630400
+    },
+    {
+      "appid": 594330,
+      "name": "Visage",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Visage",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594330/header.jpg?t=1607559678",
+      "developer": "SadSquare Studio",
+      "publisher": "SadSquare Studio",
+      "release_date": "2020年10月29日",
+      "release_ts": 1603929600
     },
     {
       "appid": 438100,
