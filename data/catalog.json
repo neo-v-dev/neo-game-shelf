@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T21:03:54.367Z",
+  "fetched_at": "2026-11-01T21:45:03.608Z",
   "games": [
     {
       "appid": 3659180,
@@ -3017,6 +3017,21 @@
       "release_ts": 1789344000
     },
     {
+      "appid": 1293160,
+      "name": "The Medium",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Medium",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/ff6a1eb4fdcfc69e2f89dcdece51817be3a9d319/header.jpg?t=1773944502",
+      "developer": "Bloober Team",
+      "publisher": "Bloober Team SA",
+      "release_date": "2021年1月28日",
+      "release_ts": 1611792000
+    },
+    {
       "appid": 1671550,
       "name": "The Night Way Home | 帰り道",
       "playtime_forever": 0,
@@ -3079,8 +3094,8 @@
     {
       "appid": 4415740,
       "name": "The Pale Mimic",
-      "playtime_forever": 0,
-      "rtime_last_played": 0,
+      "playtime_forever": 132,
+      "rtime_last_played": 1793494272,
       "visible": true,
       "played": false,
       "show_playtime": true,
@@ -3456,8 +3471,8 @@
     {
       "appid": 1325860,
       "name": "VTube Studio",
-      "playtime_forever": 20515,
-      "rtime_last_played": 1792201948,
+      "playtime_forever": 20662,
+      "rtime_last_played": 1793494514,
       "visible": false,
       "played": true,
       "show_playtime": true,
