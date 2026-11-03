@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01T21:45:03.608Z",
+  "fetched_at": "2026-11-03T00:36:27.855Z",
   "games": [
     {
       "appid": 3659180,
@@ -226,6 +226,21 @@
       "publisher": "Innersloth",
       "release_date": "2018年11月16日",
       "release_ts": 1542326400
+    },
+    {
+      "appid": 537110,
+      "name": "Angels of Death",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "殺戮の天使",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537110/header_japanese.jpg?t=1674468422",
+      "developer": "Vaka Game Magazine",
+      "publisher": "Vaka Game Magazine",
+      "release_date": "2016年12月19日",
+      "release_ts": 1482105600
     },
     {
       "appid": 4951500,
@@ -650,6 +665,21 @@
       "release_ts": 1734307200
     },
     {
+      "appid": 3155570,
+      "name": "Decollate Decoration",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "でこれいと・でこれいしょん",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3155570/header_japanese.jpg?t=1782722608",
+      "developer": "KANEKODO",
+      "publisher": "KEMCO",
+      "release_date": "2026年1月21日",
+      "release_ts": 1768953600
+    },
+    {
       "appid": 3160640,
       "name": "Don't Drop The Cake",
       "playtime_forever": 0,
@@ -708,6 +738,21 @@
       "publisher": "Digital Cybercherries",
       "release_date": "2024年10月28日",
       "release_ts": 1730073600
+    },
+    {
+      "appid": 2692990,
+      "name": "DON'T SCREAM TOGETHER",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "DON'T SCREAM TOGETHER",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/af1cd4647409efd4c9cd3afe70e0444ebd8fde2c/header.jpg?t=1772444922",
+      "developer": "Digital Cybercherries",
+      "publisher": "Digital Cybercherries",
+      "release_date": "2025年12月3日",
+      "release_ts": 1764720000
     },
     {
       "appid": 2625510,
@@ -875,6 +920,21 @@
       "release_ts": 1454976000
     },
     {
+      "appid": 5033270,
+      "name": "Five Signals",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Five Signals",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033270/fbed971b497c507bc071b5467d0f746ee7c8c740/header.jpg?t=1793371943",
+      "developer": "Dark Games DGG",
+      "publisher": "Dark Games DGG",
+      "release_date": "2026年10月30日",
+      "release_ts": 1793318400
+    },
+    {
       "appid": 4849010,
       "name": "FOCUS",
       "playtime_forever": 0,
@@ -920,6 +980,21 @@
       "release_ts": 1718064000
     },
     {
+      "appid": 4354710,
+      "name": "ForsakenVillage",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Ghost Buster:Village",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354710/4b8c3687d23a72c752ab047d18593266f80d80a1/header.jpg?t=1787203671",
+      "developer": "ZV GAMES",
+      "publisher": "ZV GAMES",
+      "release_date": "2026年8月19日",
+      "release_ts": 1787097600
+    },
+    {
       "appid": 3247990,
       "name": "From The Other Side",
       "playtime_forever": 0,
@@ -948,21 +1023,6 @@
       "publisher": "Bennett Foddy",
       "release_date": "2017年12月6日",
       "release_ts": 1512518400
-    },
-    {
-      "appid": 4354710,
-      "name": "Ghost Buster:Village",
-      "playtime_forever": 0,
-      "rtime_last_played": 0,
-      "visible": true,
-      "played": false,
-      "show_playtime": true,
-      "name_ja": "Ghost Buster:Village",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354710/4b8c3687d23a72c752ab047d18593266f80d80a1/header.jpg?t=1787203671",
-      "developer": "ZV GAMES",
-      "publisher": "ZV GAMES",
-      "release_date": "2026年8月19日",
-      "release_ts": 1787097600
     },
     {
       "appid": 2820200,
@@ -1463,6 +1523,21 @@
       "release_ts": 1792972800
     },
     {
+      "appid": 1699480,
+      "name": "KLETKA",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "人喰ノ檻 - KLETKA",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1699480/a20fec2cbd4c439f8f0f6e8522006ce6f7bf5cce/header_japanese.jpg?t=1792048317",
+      "developer": "Callback",
+      "publisher": "Callback",
+      "release_date": "2026年2月19日",
+      "release_ts": 1771459200
+    },
+    {
       "appid": 2137620,
       "name": "Korean BBQ Simulator",
       "playtime_forever": 0,
@@ -1822,6 +1897,21 @@
       "publisher": "Waku Waku Games",
       "release_date": "2024年6月19日",
       "release_ts": 1718755200
+    },
+    {
+      "appid": 1451940,
+      "name": "NEEDY STREAMER OVERLOAD",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "NEEDY GIRL OVERDOSE",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451940/header_japanese.jpg?t=1762834234",
+      "developer": "WSS playground",
+      "publisher": "WSS playground",
+      "release_date": "2022年1月21日",
+      "release_ts": 1642723200
     },
     {
       "appid": 1611490,
@@ -2580,6 +2670,21 @@
       "release_ts": 1786579200
     },
     {
+      "appid": 1096570,
+      "name": "SONG OF HORROR",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "SONG OF HORROR COMPLETE EDITION",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096570/header.jpg?t=1788345845",
+      "developer": "Protocol Games",
+      "publisher": "Protocol Games",
+      "release_date": "2019年10月31日",
+      "release_ts": 1572480000
+    },
+    {
       "appid": 1326470,
       "name": "Sons Of The Forest",
       "playtime_forever": 0,
@@ -3122,6 +3227,21 @@
       "release_ts": 1789516800
     },
     {
+      "appid": 1577120,
+      "name": "The Quarry",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "クアリー～悪夢のサマーキャンプ",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/header.jpg?t=1730303267",
+      "developer": "Supermassive Games",
+      "publisher": "2K Games",
+      "release_date": "2022年6月9日",
+      "release_ts": 1654732800
+    },
+    {
       "appid": 4895060,
       "name": "The Quiet Flat",
       "playtime_forever": 0,
@@ -3471,8 +3591,8 @@
     {
       "appid": 1325860,
       "name": "VTube Studio",
-      "playtime_forever": 20662,
-      "rtime_last_played": 1793494514,
+      "playtime_forever": 20833,
+      "rtime_last_played": 1793624588,
       "visible": false,
       "played": true,
       "show_playtime": true,
