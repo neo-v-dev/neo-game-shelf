@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T22:57:00.073Z",
+  "fetched_at": "2026-11-04T23:16:15.880Z",
   "games": [
     {
       "appid": 3659180,
@@ -996,7 +996,7 @@
     },
     {
       "appid": 4354710,
-      "name": "ForsakenVillage",
+      "name": "Forsaken Village",
       "playtime_forever": 0,
       "rtime_last_played": 0,
       "visible": true,
