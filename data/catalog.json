@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T23:16:15.880Z",
+  "fetched_at": "2026-11-05T23:19:14.906Z",
   "games": [
     {
       "appid": 3659180,
@@ -1234,6 +1234,21 @@
       "publisher": "Maju's Studio",
       "release_date": "2026年8月28日",
       "release_ts": 1787875200
+    },
+    {
+      "appid": 5173710,
+      "name": "Hell: Rancor",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "地獄怨根",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173710/39e28cdd97501563a31c67cbf8a6379443d741fe/header_japanese.jpg?t=1793782852",
+      "developer": "Maju's Studio",
+      "publisher": "Maju's Studio",
+      "release_date": "2026年11月4日",
+      "release_ts": 1793750400
     },
     {
       "appid": 2414630,
