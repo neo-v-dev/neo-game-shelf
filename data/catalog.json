@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T01:13:39.750Z",
+  "fetched_at": "2026-11-10T22:53:48.549Z",
   "games": [
     {
       "appid": 3659180,
@@ -2755,7 +2755,7 @@
     },
     {
       "appid": 3065170,
-      "name": "Monster Hunter Wilds Beta test",
+      "name": "Monster Hunter Wilds: Ascendance Beta test",
       "playtime_forever": 0,
       "rtime_last_played": 0,
       "visible": false,
