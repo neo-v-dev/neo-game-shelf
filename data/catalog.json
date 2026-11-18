@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T01:39:08.277Z",
+  "fetched_at": "2026-11-18T00:37:02.343Z",
   "games": [
     {
       "appid": 3659180,
@@ -316,6 +316,21 @@
       "publisher": "Spirit",
       "release_date": "2026年10月29日",
       "release_ts": 1793232000
+    },
+    {
+      "appid": 4631310,
+      "name": "Anomaly Road",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "異変車道",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631310/0114ec1a967091abd8c8696b361bded38a6fed20/header_japanese.jpg?t=1794822990",
+      "developer": "Liner Studio",
+      "publisher": "Liner Studio",
+      "release_date": "2026年11月5日",
+      "release_ts": 1793836800
     },
     {
       "appid": 2934190,
@@ -2303,6 +2318,21 @@
       "release_ts": 1791676800
     },
     {
+      "appid": 4784510,
+      "name": "Leviathan: Rhino",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Leviathan: Rhino",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4784510/894c18fd776040fe43523995d4122af0a0298a76/header.jpg?t=1793981530",
+      "developer": "Amortiz Games",
+      "publisher": "solarsuit.games",
+      "release_date": "2026年11月6日",
+      "release_ts": 1793923200
+    },
+    {
       "appid": 4244930,
       "name": "Log.in",
       "playtime_forever": 0,
@@ -2483,6 +2513,21 @@
       "release_ts": 1793318400
     },
     {
+      "appid": 4174620,
+      "name": "Market Moe",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Market Moe",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174620/cfe702f66b85ad84e4109823bc9dd75b6d8808ff/header.jpg?t=1794404561",
+      "developer": "Blusagi Team",
+      "publisher": "Blusagi Team",
+      "release_date": "2026年11月11日",
+      "release_ts": 1794355200
+    },
+    {
       "appid": 515960,
       "name": "Martha Is Dead",
       "playtime_forever": 0,
@@ -2587,6 +2632,21 @@
       "publisher": "Funghisoft",
       "release_date": "2017年1月5日",
       "release_ts": 1483574400
+    },
+    {
+      "appid": 5472250,
+      "name": "Midnight Rest Stop | 深夜ドライブイン",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "Midnight Rest Stop | 深夜ドライブイン",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472250/8403d86dbb37a6012ca21f9f199821f4b0a4fa9c/header.jpg?t=1794495645",
+      "developer": "TADAIMA WORKS",
+      "publisher": "RAYBIS GAMES",
+      "release_date": "2026年11月12日",
+      "release_ts": 1794441600
     },
     {
       "appid": 2827200,
@@ -3097,6 +3157,21 @@
       "publisher": "lane",
       "release_date": "2026年6月26日",
       "release_ts": 1782432000
+    },
+    {
+      "appid": 5163250,
+      "name": "NOROI SHOPPING",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "呪ショッピング",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5163250/b29ca15847e30e093f2a5c94e63f3c85f9544939/header.jpg?t=1793883613",
+      "developer": "TOBON GAME",
+      "publisher": "TOBON GAME",
+      "release_date": "2026年11月5日",
+      "release_ts": 1793836800
     },
     {
       "appid": 5381090,
@@ -4772,6 +4847,21 @@
       "release_ts": 1787184000
     },
     {
+      "appid": 5427570,
+      "name": "The Staring Man | 凝視男",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "The Staring Man | 凝視男",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5427570/86cf5d6faddd9b44ed6b31f66856171f1ecb5a06/header.jpg?t=1794236456",
+      "developer": "TADAIMA WORKS",
+      "publisher": "RAYBIS GAMES",
+      "release_date": "2026年11月9日",
+      "release_ts": 1794182400
+    },
+    {
       "appid": 5362060,
       "name": "The Third Seal",
       "playtime_forever": 0,
@@ -5207,6 +5297,21 @@
       "publisher": "DenchiSoft",
       "release_date": "2021年3月12日",
       "release_ts": 1615507200
+    },
+    {
+      "appid": 2860490,
+      "name": "Warota: I Live Next to The Demon King's Castle LOL",
+      "playtime_forever": 0,
+      "rtime_last_played": 0,
+      "visible": true,
+      "played": false,
+      "show_playtime": true,
+      "name_ja": "ワロタ、俺の家のとなり魔王城www",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/0c1a20e2587a351171c6ef4d1a2e1f8bdc7dbbbe/header_japanese.jpg?t=1794634442",
+      "developer": "One or Eight",
+      "publisher": "One or Eight",
+      "release_date": "2026年11月12日",
+      "release_ts": 1794441600
     },
     {
       "appid": 4932350,
